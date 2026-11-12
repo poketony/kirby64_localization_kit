@@ -1,0 +1,4448 @@
+{
+  "b0_0025": {
+    "category": "title",
+    "text": "星のカービィ64",
+    "description": "타이틀 로고와 저작권 문구; 한글 타이틀 적용본을 edits에 포함",
+    "status": "done_title",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b0_0026": {
+    "category": "system",
+    "text": "コントローラがささっていません\nほんたいのでんげんをきってから\nコントローラをせつぞくしてください",
+    "description": "컨트롤러 미연결 안내",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b0_0027": {
+    "category": "system",
+    "text": "This game is not designed\nfor use on this system.",
+    "description": "지역 오류 영문 안내 — 원본 전체가 영어이므로 번역하지 않음",
+    "status": "keep_english",
+    "evidence": "visually reviewed ROM extraction",
+    "policy": "USER-20261111-KEEP-ENGLISH"
+  },
+  "b3_0002": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택 화면 배경 안의 제목",
+    "status": "review_text",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0003": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0004": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0025": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0026": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0027": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0028": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0029": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0030": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0031": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0035": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0050": {
+    "category": "menu",
+    "text": "コンフィグ",
+    "description": "옵션 항목 작은 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0051": {
+    "category": "menu",
+    "text": "サウンドテスト",
+    "description": "옵션 항목 작은 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0052": {
+    "category": "menu",
+    "text": "ミニゲーム",
+    "description": "옵션 항목 작은 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0053": {
+    "category": "menu",
+    "text": "ぼすぶっち",
+    "description": "옵션 항목 작은 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0054": {
+    "category": "menu",
+    "text": "ムービー",
+    "description": "옵션 항목 작은 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0055": {
+    "category": "menu",
+    "text": "コレクション",
+    "description": "옵션 항목 작은 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0056": {
+    "category": "menu",
+    "text": "シールプリント",
+    "description": "옵션 항목 작은 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0057": {
+    "category": "menu",
+    "text": "",
+    "description": "잠금 항목 물음표",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0058": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 지우기 확인 / 예·아니오",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0059": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 지우기 확인 / 예·아니오",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0066": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 지우기 확인 / 예·아니오",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0067": {
+    "category": "menu",
+    "text": "",
+    "description": "파일 지우기 확인 / 예·아니오",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0070": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0076": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0077": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0078": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0079": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0080": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0081": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0087": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0088": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0089": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0090": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0092": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0093": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0094": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0095": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0097": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0098": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0099": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0100": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0101": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0102": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0103": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0104": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0106": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0107": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0108": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0109": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0110": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0111": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0112": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0113": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0115": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0116": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0117": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0118": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0119": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0120": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0121": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0122": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0123": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0124": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0127": {
+    "category": "minigame",
+    "text": "",
+    "description": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0126": {
+    "category": "minigame",
+    "text": "",
+    "description": "COM / START 영문 라벨",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0129": {
+    "category": "minigame",
+    "text": "",
+    "description": "COM / START 영문 라벨",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0131": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0132": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0133": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0134": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0135": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0136": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0137": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0138": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0139": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0140": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0141": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0142": {
+    "category": "minigame",
+    "text": "",
+    "description": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0147": {
+    "category": "sound_test",
+    "text": "",
+    "description": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0148": {
+    "category": "sound_test",
+    "text": "",
+    "description": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0149": {
+    "category": "sound_test",
+    "text": "",
+    "description": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0150": {
+    "category": "sound_test",
+    "text": "",
+    "description": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0151": {
+    "category": "sound_test",
+    "text": "",
+    "description": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0153": {
+    "category": "sound_test",
+    "text": "",
+    "description": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0154": {
+    "category": "sound_test",
+    "text": "",
+    "description": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0187": {
+    "category": "movies",
+    "text": "ムービー",
+    "description": "무비 메뉴 제목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0189": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0190": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0191": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0192": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0193": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0194": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0195": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0196": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0197": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0198": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0199": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0200": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0201": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0202": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0203": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0204": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0205": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0206": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0207": {
+    "category": "movies",
+    "text": "",
+    "description": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0211": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0212": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0214": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0215": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0216": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0217": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0218": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0219": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0229": {
+    "category": "settings",
+    "text": "",
+    "description": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0231": {
+    "category": "boss_rush",
+    "text": "",
+    "description": "보스 러시 제목·안내",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0243": {
+    "category": "boss_rush",
+    "text": "",
+    "description": "보스 러시 제목·안내",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0244": {
+    "category": "collection",
+    "text": "コレクション",
+    "description": "콜렉션 메뉴 제목",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0264": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0265": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0266": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0267": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0268": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0269": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0270": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0271": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0272": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0273": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0274": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0275": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0276": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0277": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0278": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0279": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0280": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0281": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0282": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0283": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0284": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0285": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0286": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0287": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0288": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0289": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0290": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0291": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0292": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0293": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0294": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0295": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0296": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0297": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0298": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0299": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0300": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0301": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0302": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0303": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0304": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0305": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0306": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0307": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0308": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0309": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0310": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0311": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0312": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0313": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0314": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0315": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0316": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0317": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0318": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0319": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0320": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0321": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0322": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0323": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0324": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0325": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0326": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0327": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0328": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0329": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0330": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0331": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0332": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0333": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0334": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0335": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0336": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0337": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0338": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0339": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0340": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0341": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0342": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0343": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0344": {
+    "category": "collection_names",
+    "text": "",
+    "description": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0502": {
+    "category": "world_names",
+    "text": "ポップスター",
+    "description": "월드 이름 7개 / 레벨 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0503": {
+    "category": "world_names",
+    "text": "ブルブルスター",
+    "description": "월드 이름 7개 / 레벨 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0504": {
+    "category": "world_names",
+    "text": "コレカラスター",
+    "description": "월드 이름 7개 / 레벨 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0505": {
+    "category": "world_names",
+    "text": "リップルスター",
+    "description": "월드 이름 7개 / 레벨 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0506": {
+    "category": "world_names",
+    "text": "ファイナルスター",
+    "description": "월드 이름 7개 / 레벨 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0507": {
+    "category": "world_names",
+    "text": "ウルルンスター",
+    "description": "월드 이름 7개 / 레벨 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0508": {
+    "category": "world_names",
+    "text": "ホロビタスター",
+    "description": "월드 이름 7개 / 레벨 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0509": {
+    "category": "world_names",
+    "text": "レベル",
+    "description": "월드 이름 7개 / 레벨 라벨",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0751": {
+    "category": "pause",
+    "text": "",
+    "description": "게임으로 돌아가기 / 최고 기록",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0752": {
+    "category": "pause",
+    "text": "",
+    "description": "게임으로 돌아가기 / 최고 기록",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0825": {
+    "category": "minigame",
+    "text": "ようい…",
+    "description": "경주 시작·준비·골 안내",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0826": {
+    "category": "minigame",
+    "text": "スタート!",
+    "description": "경주 시작·준비·골 안내",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0827": {
+    "category": "minigame",
+    "text": "ゴール!",
+    "description": "경주 시작·준비·골 안내",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0864": {
+    "category": "minigame",
+    "text": "",
+    "description": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0865": {
+    "category": "minigame",
+    "text": "",
+    "description": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0866": {
+    "category": "minigame",
+    "text": "",
+    "description": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0867": {
+    "category": "minigame",
+    "text": "",
+    "description": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0897": {
+    "category": "minigame",
+    "text": "",
+    "description": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0900": {
+    "category": "minigame",
+    "text": "",
+    "description": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0903": {
+    "category": "minigame",
+    "text": "",
+    "description": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0185": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0186": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0187": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0188": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0189": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0190": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0191": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0192": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0193": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0194": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0195": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0196": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0197": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0198": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0199": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0200": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0201": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0202": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0203": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0204": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0205": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0206": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0207": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0208": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0209": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0210": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0211": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0212": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0213": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0214": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0215": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0216": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0217": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0218": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0219": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0220": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0221": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0222": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0223": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0224": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0225": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0226": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0227": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0228": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0229": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0230": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0231": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0232": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0233": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0234": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0235": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0236": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0237": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0238": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0239": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0240": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0241": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0242": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0243": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0244": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0245": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0246": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0247": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0248": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0249": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0250": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0251": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0252": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0253": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0254": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0255": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0256": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0257": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0258": {
+    "category": "credits",
+    "text": "",
+    "description": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b4_0259": {
+    "category": "credits_illustration",
+    "text": "",
+    "description": "크레딧 삽화 책 표지 안의 일본어",
+    "status": "review_text",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0004": {
+    "category": "hud",
+    "text": "",
+    "description": "일본어 HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0167": {
+    "category": "hud",
+    "text": "",
+    "description": "일본어 HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0168": {
+    "category": "hud",
+    "text": "",
+    "description": "일본어 HUD 테마의 한자 표기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0006": {
+    "category": "debug_hud",
+    "text": "",
+    "description": "디버그 HUD에 포함된 영문 라벨",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0221": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0222": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0223": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0224": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0225": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0226": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0227": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0228": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0229": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0230": {
+    "category": "hud_numeric",
+    "text": "",
+    "description": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0251": {
+    "category": "hud_ability",
+    "text": "無",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0252": {
+    "category": "hud_ability",
+    "text": "火",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0253": {
+    "category": "hud_ability",
+    "text": "石",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0254": {
+    "category": "hud_ability",
+    "text": "針",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0255": {
+    "category": "hud_ability",
+    "text": "爆",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0256": {
+    "category": "hud_ability",
+    "text": "電",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0257": {
+    "category": "hud_ability",
+    "text": "切",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0258": {
+    "category": "hud_ability",
+    "text": "氷",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0259": {
+    "category": "hud_ability",
+    "text": "妖",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0260": {
+    "category": "hud_ability",
+    "text": "晶",
+    "description": "일본어 HUD 테마 능력 한자 10개",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0271": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0272": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0273": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0274": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0275": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0276": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0277": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0278": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0279": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0280": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0281": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0282": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0283": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0284": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0285": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0286": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0287": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0288": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0289": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0290": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0291": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0292": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0293": {
+    "category": "tutorial",
+    "text": "",
+    "description": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0298": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0299": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0300": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0303": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0304": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0305": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0306": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0308": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0309": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0310": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0311": {
+    "category": "tutorial",
+    "text": "",
+    "description": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "status": "translate",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0005": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0006": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0007": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0008": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0009": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0010": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0011": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0012": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0013": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0014": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0015": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0016": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0017": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0018": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0019": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0020": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0021": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0022": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0023": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0024": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0061": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0062": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0063": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0176": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0177": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0178": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0179": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0180": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0181": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0182": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0183": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0184": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0185": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0254": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0255": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0256": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0257": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0258": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0259": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0260": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0261": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0262": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0263": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0353": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0354": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0355": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0356": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0357": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0358": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0359": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0360": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0361": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0362": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0450": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0451": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0452": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0453": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0454": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0455": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0456": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0457": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0458": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0459": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0511": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0512": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0513": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0514": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0515": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0516": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0517": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0828": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0829": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0830": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0831": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0833": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0834": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0835": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0836": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0837": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0838": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0839": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0840": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0841": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0842": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0855": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0856": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b3_0857": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0008": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0009": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0010": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0011": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0012": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0013": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0014": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0015": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0016": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0017": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0018": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0019": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0020": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0021": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0022": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0023": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0024": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0025": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0026": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0027": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0028": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0029": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0030": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0031": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0032": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0033": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0034": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0035": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0036": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0037": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0038": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0039": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0040": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0041": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0042": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0043": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0044": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0045": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0046": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0047": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0048": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0049": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0050": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0051": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0052": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0053": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0054": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0055": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0056": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0057": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0058": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0059": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0060": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0061": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0062": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0063": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0064": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0065": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0066": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0067": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0068": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0069": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0070": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0071": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0072": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0073": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0074": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0075": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0076": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0077": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0078": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0079": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0080": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0081": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0082": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0083": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0084": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0085": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0086": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0087": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0088": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0089": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0090": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0091": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0092": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0093": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0094": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0095": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0096": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0097": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0098": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0099": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0100": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0101": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0102": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0103": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0104": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0105": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0106": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0107": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0108": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0109": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0110": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0111": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0112": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0113": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0114": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0115": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0116": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0117": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0118": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0119": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0120": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0121": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0122": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0123": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0124": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0125": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0126": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0127": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0128": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0129": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0130": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0131": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0132": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0133": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0134": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0135": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0136": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0137": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0138": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0139": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0140": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0141": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0142": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0143": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0144": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0145": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0146": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0147": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0148": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0149": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0150": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0151": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0152": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0153": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0154": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0155": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0156": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0157": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0158": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0159": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0160": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0191": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0192": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0193": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0194": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0195": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0196": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0197": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0198": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0199": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0200": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0201": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0202": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0203": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0204": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0205": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0206": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0207": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0208": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0209": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0210": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0211": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0212": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0213": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0214": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0215": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0216": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0217": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0218": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0219": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0220": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0231": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0232": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0233": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0234": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0235": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0236": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0237": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0238": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0239": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  },
+  "b5_0240": {
+    "category": "glyph",
+    "text": "",
+    "description": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "status": "optional",
+    "evidence": "visually reviewed ROM extraction"
+  }
+}

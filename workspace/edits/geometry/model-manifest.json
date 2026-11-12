@@ -1,0 +1,257 @@
+{
+  "resource_type": "geometry",
+  "file_id": "0x30005",
+  "bank": 3,
+  "index": 5,
+  "text": "형편없네요",
+  "source_image": "C:\\Users\\JO\\kirby64_localization_kit\\workspace\\artwork\\geometry-27\\geo_b3_0005-source.png",
+  "supplied_image_path": "C:\\Users\\JO\\Desktop\\geo_b3_0005-original.png",
+  "source_image_sha256": "f382a62659d75f4ae1812a401c28f67bc5016799c4229fa556c2d7ee1ec15610",
+  "font_used": false,
+  "source_rom_sha1": "03257c820b7705400c32bde1bcc3161c55814605",
+  "source_offset": 9883808,
+  "source_end": 9887424,
+  "table_entry": 461276,
+  "source_size": 3616,
+  "replacement_size": 21152,
+  "sha256": "d4ef9e0299ab3cc636099a4455312810d395aa5309f4252adf70a3613835a68d",
+  "requires_relocation": true,
+  "render_mode": "0x17",
+  "root_and_7_nodes_preserved": true,
+  "animation_refs_preserved": [
+    "0x30009",
+    "0x3000A",
+    "0x3000B"
+  ],
+  "material_setup_preserved": true,
+  "render_state_postamble_preserved": true,
+  "glyphs": [
+    {
+      "character": "형",
+      "node": 2,
+      "contour_count": 6,
+      "triangles": 203
+    },
+    {
+      "character": "편",
+      "node": 4,
+      "contour_count": 4,
+      "triangles": 173
+    },
+    {
+      "character": "없",
+      "node": 7,
+      "contour_count": 5,
+      "triangles": 206
+    },
+    {
+      "character": "네",
+      "node": 3,
+      "contour_count": 2,
+      "triangles": 218
+    },
+    {
+      "character": "요",
+      "node": 5,
+      "contour_count": 3,
+      "triangles": 107
+    }
+  ],
+  "empty_nodes": [
+    1,
+    6
+  ],
+  "triangles": 907,
+  "texture_refs": 0,
+  "primitive_rgba": [
+    255,
+    189,
+    153,
+    255
+  ],
+  "original_projection_exact_match": true,
+  "projection": {
+    "scale": 0.5827417334829527,
+    "world_center": [
+      0.0438690185546875,
+      685.5127258300781
+    ],
+    "canvas_center": [
+      320,
+      125
+    ],
+    "canvas_size": [
+      640,
+      250
+    ]
+  },
+  "raster_threshold": 128,
+  "contour_simplification_tolerance_pixels": 0.75,
+  "source_components": [
+    {
+      "glyph": "형",
+      "pixel_count": 1855,
+      "bbox": [
+        18,
+        98,
+        80,
+        141
+      ],
+      "contours": 2
+    },
+    {
+      "glyph": "형",
+      "pixel_count": 1501,
+      "bbox": [
+        16,
+        64,
+        86,
+        98
+      ],
+      "contours": 1
+    },
+    {
+      "glyph": "형",
+      "pixel_count": 1436,
+      "bbox": [
+        31,
+        150,
+        83,
+        189
+      ],
+      "contours": 2
+    },
+    {
+      "glyph": "형",
+      "pixel_count": 2469,
+      "bbox": [
+        85,
+        62,
+        137,
+        144
+      ],
+      "contours": 1
+    },
+    {
+      "glyph": "편",
+      "pixel_count": 1907,
+      "bbox": [
+        148,
+        150,
+        228,
+        189
+      ],
+      "contours": 1
+    },
+    {
+      "glyph": "편",
+      "pixel_count": 3749,
+      "bbox": [
+        143,
+        68,
+        223,
+        138
+      ],
+      "contours": 2
+    },
+    {
+      "glyph": "편",
+      "pixel_count": 2469,
+      "bbox": [
+        217,
+        62,
+        269,
+        144
+      ],
+      "contours": 1
+    },
+    {
+      "glyph": "없",
+      "pixel_count": 1449,
+      "bbox": [
+        265,
+        150,
+        315,
+        189
+      ],
+      "contours": 2
+    },
+    {
+      "glyph": "없",
+      "pixel_count": 5484,
+      "bbox": [
+        277,
+        62,
+        396,
+        144
+      ],
+      "contours": 2
+    },
+    {
+      "glyph": "없",
+      "pixel_count": 916,
+      "bbox": [
+        317,
+        150,
+        365,
+        189
+      ],
+      "contours": 1
+    },
+    {
+      "glyph": "네",
+      "pixel_count": 5295,
+      "bbox": [
+        394,
+        60,
+        487,
+        189
+      ],
+      "contours": 1
+    },
+    {
+      "glyph": "네",
+      "pixel_count": 2240,
+      "bbox": [
+        464,
+        60,
+        510,
+        189
+      ],
+      "contours": 1
+    },
+    {
+      "glyph": "요",
+      "pixel_count": 3503,
+      "bbox": [
+        502,
+        142,
+        625,
+        186
+      ],
+      "contours": 1
+    },
+    {
+      "glyph": "요",
+      "pixel_count": 2404,
+      "bbox": [
+        549,
+        77,
+        606,
+        140
+      ],
+      "contours": 2
+    }
+  ],
+  "reread_projection_iou": 0.9842485821035938,
+  "reread_component_count": 14,
+  "reread_counter_count": 6,
+  "rom_assembly": "applied; static verification complete; runtime animation untested",
+  "new_offset": 31944704,
+  "new_end": 31965856,
+  "max_declared_resource_end": 31942688,
+  "last_non_ff_byte_end": 31942704,
+  "parent_rom": "C:\\Users\\JO\\kirby64_localization_kit\\build\\kirby64-ko-graphics-20261112.z64",
+  "parent_rom_sha256": "daa8060357c4c1fc5bc83ee2d2ee6be76de2d9ed737478a822b06ddc742e278a",
+  "rom_path": "C:\\Users\\JO\\kirby64_localization_kit\\build\\kirby64-ko-graphics-20261112-v2.z64"
+}

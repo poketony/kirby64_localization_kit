@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "t_00040150",
+    "offset": 262480,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "thread stack overflow  id = %d\n",
+    "replacement": "",
+    "source": "src/main/main.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040170",
+    "offset": 262512,
+    "capacity": 40,
+    "encoding": "ascii",
+    "original": "rdp_output_buff over !! size = %d\n byte",
+    "replacement": "",
+    "source": "src/main/sched.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000401d0",
+    "offset": 262608,
+    "capacity": 22,
+    "encoding": "ascii",
+    "original": "dma pi full %x %x %x\n",
+    "replacement": "",
+    "source": "src/main/dma.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000401e8",
+    "offset": 262632,
+    "capacity": 22,
+    "encoding": "ascii",
+    "original": "dma pi full %x %x %x\n",
+    "replacement": "",
+    "source": "src/main/dma.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040260",
+    "offset": 262752,
+    "capacity": 54,
+    "encoding": "ascii",
+    "original": "gtl : DLBuffer over flow !  kind = %d  vol = %d byte\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040298",
+    "offset": 262808,
+    "capacity": 42,
+    "encoding": "ascii",
+    "original": "gtl : DynamicBuffer over flow !  %d byte\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000402c4",
+    "offset": 262852,
+    "capacity": 33,
+    "encoding": "ascii",
+    "original": "bad addr sc_rdp_output_len = %x\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000402e8",
+    "offset": 262888,
+    "capacity": 38,
+    "encoding": "ascii",
+    "original": "gtl : Buffer size for RDP is zero !!\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040310",
+    "offset": 262928,
+    "capacity": 29,
+    "encoding": "ascii",
+    "original": "gtl : not defined SCTaskGfx\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040330",
+    "offset": 262960,
+    "capacity": 30,
+    "encoding": "ascii",
+    "original": "gtl : couldn't get SCTaskGfx\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040350",
+    "offset": 262992,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "gtl : not defined SCTaskGfxEnd\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040370",
+    "offset": 263024,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "gtl : not defined SCTaskGfxEnd\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040390",
+    "offset": 263056,
+    "capacity": 39,
+    "encoding": "ascii",
+    "original": "gtl : ucode isn't included  kind = %d\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000403b8",
+    "offset": 263096,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "gtl : not defined SCTaskGfxEnd\n",
+    "replacement": "",
+    "source": "src/main/gtl.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000404e0",
+    "offset": 263392,
+    "capacity": 25,
+    "encoding": "ascii",
+    "original": "ml : alloc overflow #%d\n",
+    "replacement": "",
+    "source": "src/main/memory_layer.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040500",
+    "offset": 263424,
+    "capacity": 30,
+    "encoding": "ascii",
+    "original": "om : couldn't get GObjThread\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040520",
+    "offset": 263456,
+    "capacity": 35,
+    "encoding": "ascii",
+    "original": "om : couldn't get GObjThreadStack\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040544",
+    "offset": 263492,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "om : couldn't get GObjProcess\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040564",
+    "offset": 263524,
+    "capacity": 25,
+    "encoding": "ascii",
+    "original": "om : couldn't get OMMtx\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040580",
+    "offset": 263552,
+    "capacity": 24,
+    "encoding": "ascii",
+    "original": "om : couldn't get AObj\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040598",
+    "offset": 263576,
+    "capacity": 24,
+    "encoding": "ascii",
+    "original": "om : couldn't get MObj\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000405b0",
+    "offset": 263600,
+    "capacity": 24,
+    "encoding": "ascii",
+    "original": "om : couldn't get DObj\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000405c8",
+    "offset": 263624,
+    "capacity": 26,
+    "encoding": "ascii",
+    "original": "om : couldn't get Camera\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000405e4",
+    "offset": 263652,
+    "capacity": 42,
+    "encoding": "ascii",
+    "original": "om : GObjProcess's priority is bad value\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040610",
+    "offset": 263696,
+    "capacity": 38,
+    "encoding": "ascii",
+    "original": "om : GObjProcess's kind is bad value\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040638",
+    "offset": 263736,
+    "capacity": 42,
+    "encoding": "ascii",
+    "original": "om : GObjProcess's priority is bad value\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040688",
+    "offset": 263816,
+    "capacity": 36,
+    "encoding": "ascii",
+    "original": "om : couldn't add OMMtx for Camera\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000406ac",
+    "offset": 263852,
+    "capacity": 54,
+    "encoding": "ascii",
+    "original": "omGAddCommon() : link num over : link = %d : id = %d\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000406e4",
+    "offset": 263908,
+    "capacity": 55,
+    "encoding": "ascii",
+    "original": "omGMoveCommon() : link num over : link = %d : id = %d\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0004071c",
+    "offset": 263964,
+    "capacity": 66,
+    "encoding": "ascii",
+    "original": "omGLinkObjDLCommon() : dl_link num over : dl_link = %d : id = %d\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040760",
+    "offset": 264032,
+    "capacity": 60,
+    "encoding": "ascii",
+    "original": "omGMoveObjDL() : dl_link num over : dl_link = %d : id = %d\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0004079c",
+    "offset": 264092,
+    "capacity": 64,
+    "encoding": "ascii",
+    "original": "omGMoveObjDLHead() : dl_link num over : dl_link = %d : id = %d\n",
+    "replacement": "",
+    "source": "src/main/object_manager.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040940",
+    "offset": 264512,
+    "capacity": 36,
+    "encoding": "ascii",
+    "original": "gobjthread stack over  gobjid = %d\n",
+    "replacement": "",
+    "source": "src/main/object_helpers.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040fb0",
+    "offset": 266160,
+    "capacity": 21,
+    "encoding": "ascii",
+    "original": "Audio Heap Overflow\n",
+    "replacement": "",
+    "source": "src/main/audio.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040fe0",
+    "offset": 266208,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "Interrupt",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00040fec",
+    "offset": 266220,
+    "capacity": 17,
+    "encoding": "ascii",
+    "original": "TLB modification",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041000",
+    "offset": 266240,
+    "capacity": 22,
+    "encoding": "ascii",
+    "original": "TLB exception on load",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041018",
+    "offset": 266264,
+    "capacity": 23,
+    "encoding": "ascii",
+    "original": "TLB exception on store",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041030",
+    "offset": 266288,
+    "capacity": 22,
+    "encoding": "ascii",
+    "original": "Address error on load",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041048",
+    "offset": 266312,
+    "capacity": 23,
+    "encoding": "ascii",
+    "original": "Address error on store",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041060",
+    "offset": 266336,
+    "capacity": 19,
+    "encoding": "ascii",
+    "original": "Bus error on inst.",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041074",
+    "offset": 266356,
+    "capacity": 18,
+    "encoding": "ascii",
+    "original": "Bus error on data",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041088",
+    "offset": 266376,
+    "capacity": 22,
+    "encoding": "ascii",
+    "original": "System call exception",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000410a0",
+    "offset": 266400,
+    "capacity": 21,
+    "encoding": "ascii",
+    "original": "Breakpoint exception",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000410b8",
+    "offset": 266424,
+    "capacity": 21,
+    "encoding": "ascii",
+    "original": "Reserved instruction",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000410d0",
+    "offset": 266448,
+    "capacity": 21,
+    "encoding": "ascii",
+    "original": "Coprocessor unusable",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000410e8",
+    "offset": 266472,
+    "capacity": 20,
+    "encoding": "ascii",
+    "original": "Arithmetic overflow",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000410fc",
+    "offset": 266492,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "Trap exception",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0004110c",
+    "offset": 266508,
+    "capacity": 27,
+    "encoding": "ascii",
+    "original": "Virtual coherency on inst.",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041128",
+    "offset": 266536,
+    "capacity": 25,
+    "encoding": "ascii",
+    "original": "Floating point exception",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041144",
+    "offset": 266564,
+    "capacity": 21,
+    "encoding": "ascii",
+    "original": "Watchpoint exception",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0004115c",
+    "offset": 266588,
+    "capacity": 26,
+    "encoding": "ascii",
+    "original": "Virtual coherency on data",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041178",
+    "offset": 266616,
+    "capacity": 24,
+    "encoding": "ascii",
+    "original": "Unimplemented operation",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041190",
+    "offset": 266640,
+    "capacity": 18,
+    "encoding": "ascii",
+    "original": "Invalid operation",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000411a4",
+    "offset": 266660,
+    "capacity": 17,
+    "encoding": "ascii",
+    "original": "Division by zero",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000411b8",
+    "offset": 266680,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "Overflow",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000411c4",
+    "offset": 266692,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "Underflow",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000411d0",
+    "offset": 266704,
+    "capacity": 18,
+    "encoding": "ascii",
+    "original": "Inexact operation",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000411e4",
+    "offset": 266724,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "F%02d:%.3e",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000411f0",
+    "offset": 266736,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "F%02d:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000411fc",
+    "offset": 266748,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "FPCSR:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041208",
+    "offset": 266760,
+    "capacity": 5,
+    "encoding": "ascii",
+    "original": "(%s)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041210",
+    "offset": 266768,
+    "capacity": 16,
+    "encoding": "ascii",
+    "original": "THREAD:%d  (%s)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041220",
+    "offset": 266784,
+    "capacity": 16,
+    "encoding": "ascii",
+    "original": "THREAD:%d  (%s)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041230",
+    "offset": 266800,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "INF-LOOP",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0004123c",
+    "offset": 266812,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "IP (%02X)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041248",
+    "offset": 266824,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "RCP (%X)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041254",
+    "offset": 266836,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "PC:%08XH   SR:%08XH   VA:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041274",
+    "offset": 266868,
+    "capacity": 16,
+    "encoding": "ascii",
+    "original": "THREAD:%d  (%s)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041284",
+    "offset": 266884,
+    "capacity": 16,
+    "encoding": "ascii",
+    "original": "THREAD:%d  (%s)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041294",
+    "offset": 266900,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "INF-LOOP",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000412a0",
+    "offset": 266912,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "PC:%08XH   SR:%08XH   VA:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000412c0",
+    "offset": 266944,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "IP (%02X)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000412cc",
+    "offset": 266956,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "RCP (%X)",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000412d8",
+    "offset": 266968,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "AT:%08XH   V0:%08XH   V1:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000412f8",
+    "offset": 267000,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "A0:%08XH   A1:%08XH   A2:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041318",
+    "offset": 267032,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "A3:%08XH   T0:%08XH   T1:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041338",
+    "offset": 267064,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "T2:%08XH   T3:%08XH   T4:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041358",
+    "offset": 267096,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "T5:%08XH   T6:%08XH   T7:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041378",
+    "offset": 267128,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "S0:%08XH   S1:%08XH   S2:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041398",
+    "offset": 267160,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "S3:%08XH   S4:%08XH   S5:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000413b8",
+    "offset": 267192,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "S6:%08XH   S7:%08XH   T8:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000413d8",
+    "offset": 267224,
+    "capacity": 31,
+    "encoding": "ascii",
+    "original": "T9:%08XH   GP:%08XH   SP:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000413f8",
+    "offset": 267256,
+    "capacity": 20,
+    "encoding": "ascii",
+    "original": "S8:%08XH   RA:%08XH",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0004140c",
+    "offset": 267276,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "SP Base %08x",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0004141c",
+    "offset": 267292,
+    "capacity": 27,
+    "encoding": "ascii",
+    "original": "%03d:%02x%02x%02x%02x %.3e",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041438",
+    "offset": 267320,
+    "capacity": 27,
+    "encoding": "ascii",
+    "original": "%03d:%02x%02x%02x%02x %08x",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00041454",
+    "offset": 267348,
+    "capacity": 23,
+    "encoding": "ascii",
+    "original": ":%02x%02x%02x%02x %.3e",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0004146c",
+    "offset": 267372,
+    "capacity": 23,
+    "encoding": "ascii",
+    "original": ":%02x%02x%02x%02x %08x",
+    "replacement": "",
+    "source": "src/main/fault.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d340",
+    "offset": 512832,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "gobj id:%d\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d34c",
+    "offset": 512844,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "df:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d354",
+    "offset": 512852,
+    "capacity": 5,
+    "encoding": "ascii",
+    "original": "SYS\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d35c",
+    "offset": 512860,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "BF\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d360",
+    "offset": 512864,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "addr:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d36c",
+    "offset": 512876,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "GP\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d370",
+    "offset": 512880,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "gobj:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d37c",
+    "offset": 512892,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "gp:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d384",
+    "offset": 512900,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "gobjthread:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d394",
+    "offset": 512916,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "stack:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3a0",
+    "offset": 512928,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "thread pc:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3b0",
+    "offset": 512944,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "id:%d\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3b8",
+    "offset": 512952,
+    "capacity": 8,
+    "encoding": "ascii",
+    "original": "ptr:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3c0",
+    "offset": 512960,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "func:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3cc",
+    "offset": 512972,
+    "capacity": 5,
+    "encoding": "ascii",
+    "original": "DFC\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3d4",
+    "offset": 512980,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "addr:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3e0",
+    "offset": 512992,
+    "capacity": 5,
+    "encoding": "ascii",
+    "original": "DFO\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3e8",
+    "offset": 513000,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "cam addr:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d3f8",
+    "offset": 513016,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "disp addr:%x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d408",
+    "offset": 513032,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "s: %x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d410",
+    "offset": 513040,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "t: %x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d418",
+    "offset": 513048,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "l: %x\n",
+    "replacement": "",
+    "source": "src/ovl1/game.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d5b0",
+    "offset": 513456,
+    "capacity": 23,
+    "encoding": "ascii",
+    "original": "use AllStopFGM macro.\n",
+    "replacement": "",
+    "source": "src/ovl1/ovl1_2_2.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d5c8",
+    "offset": 513480,
+    "capacity": 28,
+    "encoding": "ascii",
+    "original": "use stopLoopSeml function.\n",
+    "replacement": "",
+    "source": "src/ovl1/ovl1_2_2.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d5e4",
+    "offset": 513508,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "Error: No Entry FGM Number: %d\n",
+    "replacement": "",
+    "source": "src/ovl1/ovl1_2_2.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d604",
+    "offset": 513540,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "Error: No Entry FGM Number: %d\n",
+    "replacement": "",
+    "source": "src/ovl1/ovl1_2_2.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d6dc",
+    "offset": 513756,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M11PLAINRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d6e8",
+    "offset": 513768,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M11PLAIN03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d6f4",
+    "offset": 513780,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M11PLAIN02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d700",
+    "offset": 513792,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G11",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d704",
+    "offset": 513796,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M12WOODS01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d710",
+    "offset": 513808,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M12WOODS02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d71c",
+    "offset": 513820,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M12WOODS03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d728",
+    "offset": 513832,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M12WOODS04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d734",
+    "offset": 513844,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M12WOODSRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d740",
+    "offset": 513856,
+    "capacity": 8,
+    "encoding": "ascii",
+    "original": "MBADO01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d748",
+    "offset": 513864,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G12",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d74c",
+    "offset": 513868,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M13CASTLE01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d758",
+    "offset": 513880,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M13CASTLE02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d764",
+    "offset": 513892,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M13CASTLE03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d770",
+    "offset": 513904,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M13CASTLE04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d77c",
+    "offset": 513916,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M13CASTLE05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d788",
+    "offset": 513928,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M13CASTLE06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d794",
+    "offset": 513940,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M13CASTLEADO",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7a4",
+    "offset": 513956,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M13CASTLE07",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7b0",
+    "offset": 513968,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "MBDEDEDE01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7bc",
+    "offset": 513980,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G13",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7c0",
+    "offset": 513984,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "M1WHISPY",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7cc",
+    "offset": 513996,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M21DESERT01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7d8",
+    "offset": 514008,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M21DESERT02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7e4",
+    "offset": 514020,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M21DESERTRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7f0",
+    "offset": 514032,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M21DESERT03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d7fc",
+    "offset": 514044,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M21DESERT04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d808",
+    "offset": 514056,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G21",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d80c",
+    "offset": 514060,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M22RUINS01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d818",
+    "offset": 514072,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M22RUINS05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d824",
+    "offset": 514084,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M22RUINS02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d830",
+    "offset": 514096,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M22RUINS03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d83c",
+    "offset": 514108,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M22RUINS04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d848",
+    "offset": 514120,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M22RUINSDEDEDE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d858",
+    "offset": 514136,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G22",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d85c",
+    "offset": 514140,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M23SAND01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d868",
+    "offset": 514152,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M23SAND02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d874",
+    "offset": 514164,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M23SANDRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d880",
+    "offset": 514176,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M23SAND03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d88c",
+    "offset": 514188,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M23SAND04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d898",
+    "offset": 514200,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M23SAND06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d8a4",
+    "offset": 514212,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M23SAND07",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d8b0",
+    "offset": 514224,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M23SAND05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d8bc",
+    "offset": 514236,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G23",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d8c0",
+    "offset": 514240,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M24PYRAMID01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d8d0",
+    "offset": 514256,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M24PYRAMID02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d8e0",
+    "offset": 514272,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M24PYRAMID03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d8f0",
+    "offset": 514288,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M24PYRAMIDADO1",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d900",
+    "offset": 514304,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M24PYRAMIDADO2",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d910",
+    "offset": 514320,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M24PYRAMID04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d920",
+    "offset": 514336,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M24PYRAMIDRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d930",
+    "offset": 514352,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M24PYRAMID05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d940",
+    "offset": 514368,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G24",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d944",
+    "offset": 514372,
+    "capacity": 6,
+    "encoding": "ascii",
+    "original": "M2PIX",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d94c",
+    "offset": 514380,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M31SEASIDE01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d95c",
+    "offset": 514396,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M31SEASIDE02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d96c",
+    "offset": 514412,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M31SEASIDE03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d97c",
+    "offset": 514428,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M31SEASIDE06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d98c",
+    "offset": 514444,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M31SEASIDERG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d99c",
+    "offset": 514460,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M31SEASIDE05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9ac",
+    "offset": 514476,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G31",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9b0",
+    "offset": 514480,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M32RIVER01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9bc",
+    "offset": 514492,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M32RIVER03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9c8",
+    "offset": 514504,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M32RIVERRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9d4",
+    "offset": 514516,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M32RIVERDEE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9e0",
+    "offset": 514528,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M32RIVER05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9ec",
+    "offset": 514540,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M32RIVER04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9f8",
+    "offset": 514552,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G32",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007d9fc",
+    "offset": 514556,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M33COAST06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da08",
+    "offset": 514568,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M33COAST01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da14",
+    "offset": 514580,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M33COAST03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da20",
+    "offset": 514592,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M33COAST02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da2c",
+    "offset": 514604,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M33COAST04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da38",
+    "offset": 514616,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M33COASTRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da44",
+    "offset": 514628,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M33COAST05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da50",
+    "offset": 514640,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G33",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da54",
+    "offset": 514644,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M34SUBMARINE01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da64",
+    "offset": 514660,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M34SUBMARINE02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da74",
+    "offset": 514676,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M34SUBMARINE03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da84",
+    "offset": 514692,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M34SUBMARINE05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007da94",
+    "offset": 514708,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M34SUBMARINERG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007daa4",
+    "offset": 514724,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M34SUBMARINE04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dab4",
+    "offset": 514740,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G34",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dab8",
+    "offset": 514744,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "M3ACRO",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dac0",
+    "offset": 514752,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M41JUNGLE01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dacc",
+    "offset": 514764,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M41JUNGLE03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dad8",
+    "offset": 514776,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M41JUNGLE06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dae4",
+    "offset": 514788,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M41JUNGLERG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007daf0",
+    "offset": 514800,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M41JUNGLE05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dafc",
+    "offset": 514812,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M41JUNGLE02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db08",
+    "offset": 514824,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G41",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db0c",
+    "offset": 514828,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M42CAVERN01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db18",
+    "offset": 514840,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M42CAVERNDEE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db28",
+    "offset": 514856,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M42CAVERN06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db34",
+    "offset": 514868,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M42CAVERN03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db40",
+    "offset": 514880,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M42CAVERN05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db4c",
+    "offset": 514892,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M42CAVERNRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db58",
+    "offset": 514904,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M42CAVERN04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db64",
+    "offset": 514916,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G42",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db68",
+    "offset": 514920,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M43ROCK01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db74",
+    "offset": 514932,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M43ROCK02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db80",
+    "offset": 514944,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M43ROCKADO1",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db8c",
+    "offset": 514956,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M43ROCKADO2",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007db98",
+    "offset": 514968,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M43ROCK03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dba4",
+    "offset": 514980,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G43",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dba8",
+    "offset": 514984,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M44LAVA01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dbb4",
+    "offset": 514996,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M44LAVA02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dbc0",
+    "offset": 515008,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M44LAVADEDE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dbcc",
+    "offset": 515020,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M44LAVA03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dbd8",
+    "offset": 515032,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M44LAVA04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dbe4",
+    "offset": 515044,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M44LAVA06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dbf0",
+    "offset": 515056,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M44LAVA05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dbfc",
+    "offset": 515068,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G44",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc00",
+    "offset": 515072,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "M4MOLTEN",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc0c",
+    "offset": 515084,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M51SNOW01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc18",
+    "offset": 515096,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M51SNOW02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc24",
+    "offset": 515108,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M51SNOWDEE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc30",
+    "offset": 515120,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M51SNOWRG01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc3c",
+    "offset": 515132,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M51SNOW05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc48",
+    "offset": 515144,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M51SNOW04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc54",
+    "offset": 515156,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G51",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc58",
+    "offset": 515160,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M52CLOUD01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc64",
+    "offset": 515172,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M52CLOUD03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc70",
+    "offset": 515184,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M52CLOUD02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc7c",
+    "offset": 515196,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M52CLOUD06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc88",
+    "offset": 515208,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M52CLOUD05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dc94",
+    "offset": 515220,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "M52CLOUDRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dca0",
+    "offset": 515232,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G52",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dca4",
+    "offset": 515236,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "M53BUILDING01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dcb4",
+    "offset": 515252,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "M53BUILDING02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dcc4",
+    "offset": 515268,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "M53BUILDING05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dcd4",
+    "offset": 515284,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "M53BUILDINGRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dce4",
+    "offset": 515300,
+    "capacity": 16,
+    "encoding": "ascii",
+    "original": "M53BUILDINGADO1",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dcf4",
+    "offset": 515316,
+    "capacity": 16,
+    "encoding": "ascii",
+    "original": "M53BUILDINGADO2",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd04",
+    "offset": 515332,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "M53BUILDING03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd14",
+    "offset": 515348,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "M53BUILDING04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd24",
+    "offset": 515364,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G53",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd28",
+    "offset": 515368,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M54FACTORY01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd38",
+    "offset": 515384,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M54FACTORY02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd48",
+    "offset": 515400,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M54FACTORYDEDE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd58",
+    "offset": 515416,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M54FACTORY05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd68",
+    "offset": 515432,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M54FACTORYRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd78",
+    "offset": 515448,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M54FACTORY07",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd88",
+    "offset": 515464,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M54FACTORY06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd98",
+    "offset": 515480,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G54",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dd9c",
+    "offset": 515484,
+    "capacity": 5,
+    "encoding": "ascii",
+    "original": "M5HR",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dda4",
+    "offset": 515492,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M61RPLAIN02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007ddb0",
+    "offset": 515504,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M61RPLAINRG",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007ddbc",
+    "offset": 515516,
+    "capacity": 12,
+    "encoding": "ascii",
+    "original": "M61RPLAIN03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007ddc8",
+    "offset": 515528,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G61",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007ddcc",
+    "offset": 515532,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M62RCASTLE01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dddc",
+    "offset": 515548,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M62RCASTLE02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007ddec",
+    "offset": 515564,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M62RCASTLEDE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007ddfc",
+    "offset": 515580,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M62RCASTLE03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de0c",
+    "offset": 515596,
+    "capacity": 14,
+    "encoding": "ascii",
+    "original": "M62RCASTLEADO",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de1c",
+    "offset": 515612,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M62RCASTLE04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de2c",
+    "offset": 515628,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G62",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de30",
+    "offset": 515632,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M63RCASTLERG01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de40",
+    "offset": 515648,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M63RCASTLERG02",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de50",
+    "offset": 515664,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M63RCASTLE05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de60",
+    "offset": 515680,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M63RCASTLERG03",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de70",
+    "offset": 515696,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M63RCASTLE06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de80",
+    "offset": 515712,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M63RCASTLERG04",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007de90",
+    "offset": 515728,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M63RCASTLE07",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dea0",
+    "offset": 515744,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M63RCASTLERG05",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007deb0",
+    "offset": 515760,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M63RCASTLE08",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dec0",
+    "offset": 515776,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "M63RCASTLERG06",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007ded0",
+    "offset": 515792,
+    "capacity": 13,
+    "encoding": "ascii",
+    "original": "M63RCASTLE09",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dee0",
+    "offset": 515808,
+    "capacity": 4,
+    "encoding": "ascii",
+    "original": "G63",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dee4",
+    "offset": 515812,
+    "capacity": 10,
+    "encoding": "ascii",
+    "original": "M6MIRACLE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007def0",
+    "offset": 515824,
+    "capacity": 8,
+    "encoding": "ascii",
+    "original": "M71WADO",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007def8",
+    "offset": 515832,
+    "capacity": 8,
+    "encoding": "ascii",
+    "original": "M71DEDE",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df00",
+    "offset": 515840,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "M7LAST",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df08",
+    "offset": 515848,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "ABE200",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df10",
+    "offset": 515856,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "ABE100",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df18",
+    "offset": 515864,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "EXERCISE01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df24",
+    "offset": 515876,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "ENETEST1",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df30",
+    "offset": 515888,
+    "capacity": 9,
+    "encoding": "ascii",
+    "original": "ENETEST2",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df3c",
+    "offset": 515900,
+    "capacity": 7,
+    "encoding": "ascii",
+    "original": "ITEM01",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df44",
+    "offset": 515908,
+    "capacity": 11,
+    "encoding": "ascii",
+    "original": "BREAKTEST1",
+    "replacement": "",
+    "source": "src/ovl1/filetable_stuff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007df90",
+    "offset": 515984,
+    "capacity": 23,
+    "encoding": "ascii",
+    "original": "Can't request job !!!\n",
+    "replacement": "",
+    "source": "src/ovl1/track.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0007dfa8",
+    "offset": 516008,
+    "capacity": 29,
+    "encoding": "ascii",
+    "original": "Job Request Deep OverFlow!!\n",
+    "replacement": "",
+    "source": "src/ovl1/track.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000b0dd0",
+    "offset": 724432,
+    "capacity": 40,
+    "encoding": "ascii",
+    "original": "plyInitCatchOver: No DisType Number=%x\n",
+    "replacement": "",
+    "source": "src/ovl2/plylib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000b0df8",
+    "offset": 724472,
+    "capacity": 39,
+    "encoding": "ascii",
+    "original": "plyInitCatchOver: New Catch Number=%x\n",
+    "replacement": "",
+    "source": "src/ovl2/plylib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_000b0e20",
+    "offset": 724512,
+    "capacity": 53,
+    "encoding": "ascii",
+    "original": "plydmg ptcl kind over![plylib.cc] max: %x, kind: %x\n",
+    "replacement": "",
+    "source": "src/ovl2/plylib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00133f30",
+    "offset": 1261360,
+    "capacity": 26,
+    "encoding": "ascii",
+    "original": "Can't get spobj in mglib\n",
+    "replacement": "",
+    "source": "src/ovl5/ovl5_1.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0013dba0",
+    "offset": 1301408,
+    "capacity": 27,
+    "encoding": "ascii",
+    "original": "movie: Too many free data\n",
+    "replacement": "",
+    "source": "src/ovl6/ovl6.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00172ee0",
+    "offset": 1519328,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "eneTurnCommon Error frame=%02d\n",
+    "replacement": "",
+    "source": "src/ovl7/enelib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00172f00",
+    "offset": 1519360,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "eneTurnCommon Error frame=%02d\n",
+    "replacement": "",
+    "source": "src/ovl7/enelib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00172f20",
+    "offset": 1519392,
+    "capacity": 44,
+    "encoding": "ascii",
+    "original": "reqChildEneTrk  Request Error!![enelib.cc]\n",
+    "replacement": "",
+    "source": "src/ovl7/enelib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00172f4c",
+    "offset": 1519436,
+    "capacity": 51,
+    "encoding": "ascii",
+    "original": "serach enemy list error. JN number:%d [enelib.cc]\n",
+    "replacement": "",
+    "source": "src/ovl7/enelib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_00173490",
+    "offset": 1520784,
+    "capacity": 42,
+    "encoding": "ascii",
+    "original": "JL_CatchOver: No CatchInfo Address ID:%x\n",
+    "replacement": "",
+    "source": "src/ovl7/ovl7_5.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0023d940",
+    "offset": 2349376,
+    "capacity": 32,
+    "encoding": "ascii",
+    "original": "eneTurnCommon Error frame=%02d\n",
+    "replacement": "",
+    "source": "src/ovl7/enelib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0024f1b0",
+    "offset": 2421168,
+    "capacity": 46,
+    "encoding": "ascii",
+    "original": "reqHelpChildTrk  Request Error!![helplib.cc]\n",
+    "replacement": "",
+    "source": "src/ovl19/helplib.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0024f1f0",
+    "offset": 2421232,
+    "capacity": 42,
+    "encoding": "ascii",
+    "original": "Helper Effect Request Error![helpeff.cc]\n",
+    "replacement": "",
+    "source": "src/ovl19/helpeff.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0024f230",
+    "offset": 2421296,
+    "capacity": 41,
+    "encoding": "ascii",
+    "original": "drawItemReq  Request Error!![helper.cc]\n",
+    "replacement": "",
+    "source": "src/ovl19/helper.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  },
+  {
+    "id": "t_0024f480",
+    "offset": 2421888,
+    "capacity": 15,
+    "encoding": "ascii",
+    "original": "No List Id:%d\n",
+    "replacement": "",
+    "source": "src/ovl19/ovl19_3.c",
+    "scope": "debug_or_internal; not Japanese UI dialogue"
+  }
+]

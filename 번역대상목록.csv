@@ -1,0 +1,639 @@
+﻿id,category,status,source_text,description,width,height,format,palette_entries,rom_offset,png
+b0_0025,title,done_title,星のカービィ64,타이틀 로고와 저작권 문구; 한글 타이틀 적용본을 edits에 포함,300,220,ci8,256,0x4dbd90,workspace/originals/b0_0025.png
+b0_0026,system,translate,"コントローラがささっていません
+ほんたいのでんげんをきってから
+コントローラをせつぞくしてください",컨트롤러 미연결 안내,240,64,i4,0,0x4ec4e0,workspace/originals/b0_0026.png
+b0_0027,system,keep_english,"This game is not designed
+for use on this system.",지역 오류 영문 안내,224,38,i4,0,0x4ee2f0,workspace/originals/b0_0027.png
+b3_0002,menu,review_text,,파일 선택 화면 배경 안의 제목,300,220,ci8,256,0x9fbfe0,workspace/originals/b3_0002.png
+b3_0003,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,77,i4,0,0xa0c730,workspace/originals/b3_0003.png
+b3_0004,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,58,ci4,16,0xa0d0e0,workspace/originals/b3_0004.png
+b3_0005,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0d850,workspace/originals/b3_0005.png
+b3_0006,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0d920,workspace/originals/b3_0006.png
+b3_0007,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0d9f0,workspace/originals/b3_0007.png
+b3_0008,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0dac0,workspace/originals/b3_0008.png
+b3_0009,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0db90,workspace/originals/b3_0009.png
+b3_0010,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0dc60,workspace/originals/b3_0010.png
+b3_0011,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0dd30,workspace/originals/b3_0011.png
+b3_0012,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0de00,workspace/originals/b3_0012.png
+b3_0013,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0ded0,workspace/originals/b3_0013.png
+b3_0014,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,24,i4,0,0xa0dfa0,workspace/originals/b3_0014.png
+b3_0015,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e070,workspace/originals/b3_0015.png
+b3_0016,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e138,workspace/originals/b3_0016.png
+b3_0017,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e200,workspace/originals/b3_0017.png
+b3_0018,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e2c8,workspace/originals/b3_0018.png
+b3_0019,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e390,workspace/originals/b3_0019.png
+b3_0020,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e458,workspace/originals/b3_0020.png
+b3_0021,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e520,workspace/originals/b3_0021.png
+b3_0022,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e5e8,workspace/originals/b3_0022.png
+b3_0023,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e6b0,workspace/originals/b3_0023.png
+b3_0024,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,23,i4,0,0xa0e778,workspace/originals/b3_0024.png
+b3_0025,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,24,ci4,16,0xa0e840,workspace/originals/b3_0025.png
+b3_0026,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,24,i4,0,0xa0eb70,workspace/originals/b3_0026.png
+b3_0027,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,24,i4,0,0xa0ee80,workspace/originals/b3_0027.png
+b3_0028,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,24,i4,0,0xa0f190,workspace/originals/b3_0028.png
+b3_0029,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,24,ci4,16,0xa0f4a0,workspace/originals/b3_0029.png
+b3_0030,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,24,ci4,16,0xa0f7d0,workspace/originals/b3_0030.png
+b3_0031,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,24,ci4,16,0xa0fb00,workspace/originals/b3_0031.png
+b3_0035,menu,translate,,파일 선택/옵션; 선택·비선택 상태 포함,64,16,i4,0,0xa10b60,workspace/originals/b3_0035.png
+b3_0050,menu,translate,コンフィグ,옵션 항목 작은 라벨,58,10,i4,0,0xa120b0,workspace/originals/b3_0050.png
+b3_0051,menu,translate,サウンドテスト,옵션 항목 작은 라벨,58,10,i4,0,0xa12200,workspace/originals/b3_0051.png
+b3_0052,menu,translate,ミニゲーム,옵션 항목 작은 라벨,58,10,i4,0,0xa12350,workspace/originals/b3_0052.png
+b3_0053,menu,translate,ぼすぶっち,옵션 항목 작은 라벨,58,10,i4,0,0xa124a0,workspace/originals/b3_0053.png
+b3_0054,menu,translate,ムービー,옵션 항목 작은 라벨,58,10,i4,0,0xa125f0,workspace/originals/b3_0054.png
+b3_0055,menu,translate,コレクション,옵션 항목 작은 라벨,58,10,i4,0,0xa12740,workspace/originals/b3_0055.png
+b3_0056,menu,translate,シールプリント,옵션 항목 작은 라벨,58,10,i4,0,0xa12890,workspace/originals/b3_0056.png
+b3_0057,menu,optional,,잠금 항목 물음표,58,10,i4,0,0xa129e0,workspace/originals/b3_0057.png
+b3_0058,menu,translate,,파일 지우기 확인 / 예·아니오,80,33,i4,0,0xa12b30,workspace/originals/b3_0058.png
+b3_0059,menu,translate,,파일 지우기 확인 / 예·아니오,48,41,i4,0,0xa13068,workspace/originals/b3_0059.png
+b3_0061,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,32,19,i4,0,0xa13760,workspace/originals/b3_0061.png
+b3_0062,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,32,19,i4,0,0xa138a0,workspace/originals/b3_0062.png
+b3_0063,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,32,19,i4,0,0xa139e0,workspace/originals/b3_0063.png
+b3_0066,menu,translate,,파일 지우기 확인 / 예·아니오,48,20,ci4,16,0xa14a20,workspace/originals/b3_0066.png
+b3_0067,menu,translate,,파일 지우기 확인 / 예·아니오,48,20,ci4,16,0xa14c30,workspace/originals/b3_0067.png
+b3_0070,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,146,38,ci4,16,0xa1b140,workspace/originals/b3_0070.png
+b3_0076,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,40,i4,0,0xa253a0,workspace/originals/b3_0076.png
+b3_0077,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,40,i4,0,0xa258b0,workspace/originals/b3_0077.png
+b3_0078,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,40,i4,0,0xa25dc0,workspace/originals/b3_0078.png
+b3_0079,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,176,56,i4,0,0xa262d0,workspace/originals/b3_0079.png
+b3_0080,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,176,56,i4,0,0xa27620,workspace/originals/b3_0080.png
+b3_0081,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,176,56,i4,0,0xa28970,workspace/originals/b3_0081.png
+b3_0087,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,224,40,ci8,64,0xa2a6a0,workspace/originals/b3_0087.png
+b3_0088,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,240,40,ci4,16,0xa2ca30,workspace/originals/b3_0088.png
+b3_0089,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,240,40,ci4,16,0xa2dd20,workspace/originals/b3_0089.png
+b3_0090,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,240,40,ci4,16,0xa2f010,workspace/originals/b3_0090.png
+b3_0092,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,256,35,ci8,256,0xa32398,workspace/originals/b3_0092.png
+b3_0093,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,256,35,ci8,256,0xa348a8,workspace/originals/b3_0093.png
+b3_0094,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,256,35,ci8,256,0xa36db8,workspace/originals/b3_0094.png
+b3_0095,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,256,35,ci8,256,0xa392c8,workspace/originals/b3_0095.png
+b3_0097,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,240,39,ci8,256,0xa3d870,workspace/originals/b3_0097.png
+b3_0098,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,240,39,ci8,256,0xa3ff10,workspace/originals/b3_0098.png
+b3_0099,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,240,39,ci8,256,0xa425b0,workspace/originals/b3_0099.png
+b3_0100,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,48,67,i4,0,0xa44c50,workspace/originals/b3_0100.png
+b3_0101,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,48,26,ci4,16,0xa452a8,workspace/originals/b3_0101.png
+b3_0102,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,48,26,ci4,16,0xa45548,workspace/originals/b3_0102.png
+b3_0103,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,26,ci4,16,0xa457e8,workspace/originals/b3_0103.png
+b3_0104,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,26,ci4,16,0xa45b58,workspace/originals/b3_0104.png
+b3_0106,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,54,29,ci8,256,0xa46a38,workspace/originals/b3_0106.png
+b3_0107,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,56,29,ci8,256,0xa472a0,workspace/originals/b3_0107.png
+b3_0108,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,66,29,ci8,256,0xa47b08,workspace/originals/b3_0108.png
+b3_0109,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,56,29,ci8,256,0xa48540,workspace/originals/b3_0109.png
+b3_0110,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,26,ci4,16,0xa48da8,workspace/originals/b3_0110.png
+b3_0111,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,26,ci4,16,0xa49118,workspace/originals/b3_0111.png
+b3_0112,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,26,ci4,16,0xa49488,workspace/originals/b3_0112.png
+b3_0113,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,26,ci4,16,0xa497f8,workspace/originals/b3_0113.png
+b3_0115,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,128,35,ia8,0,0xa4bc68,workspace/originals/b3_0115.png
+b3_0116,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,16,ia8,0,0xa4cdf8,workspace/originals/b3_0116.png
+b3_0117,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,16,ia8,0,0xa4d208,workspace/originals/b3_0117.png
+b3_0118,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,16,ia8,0,0xa4d618,workspace/originals/b3_0118.png
+b3_0119,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,16,ia8,0,0xa4da28,workspace/originals/b3_0119.png
+b3_0120,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,128,35,ia8,0,0xa4de38,workspace/originals/b3_0120.png
+b3_0121,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,16,ia8,0,0xa4efc8,workspace/originals/b3_0121.png
+b3_0122,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,16,ia8,0,0xa4f3d8,workspace/originals/b3_0122.png
+b3_0123,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,16,ia8,0,0xa4f7e8,workspace/originals/b3_0123.png
+b3_0124,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,64,16,ia8,0,0xa4fbf8,workspace/originals/b3_0124.png
+b3_0126,minigame,optional,,COM / START 영문 라벨,34,17,ci4,16,0xa506a8,workspace/originals/b3_0126.png
+b3_0127,minigame,translate,,미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도,224,40,ci8,64,0xa50870,workspace/originals/b3_0127.png
+b3_0129,minigame,optional,,COM / START 영문 라벨,48,39,ci4,16,0xa52e30,workspace/originals/b3_0129.png
+b3_0131,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,38,i4,0,0xa535d8,workspace/originals/b3_0131.png
+b3_0132,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,38,i4,0,0xa53978,workspace/originals/b3_0132.png
+b3_0133,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,38,i4,0,0xa53d18,workspace/originals/b3_0133.png
+b3_0134,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,38,i4,0,0xa540b8,workspace/originals/b3_0134.png
+b3_0135,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,48,ci8,256,0xa54458,workspace/originals/b3_0135.png
+b3_0136,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,48,ci8,256,0xa54f68,workspace/originals/b3_0136.png
+b3_0137,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,48,ci8,256,0xa55a78,workspace/originals/b3_0137.png
+b3_0138,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,48,ci8,256,0xa56588,workspace/originals/b3_0138.png
+b3_0139,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,18,i4,0,0xa57098,workspace/originals/b3_0139.png
+b3_0140,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,18,i4,0,0xa57258,workspace/originals/b3_0140.png
+b3_0141,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,48,18,i4,0,0xa57418,workspace/originals/b3_0141.png
+b3_0142,minigame,translate,,스테이지 1~4와 난이도; 선택·비선택 상태 포함,58,20,i4,0,0xa575d8,workspace/originals/b3_0142.png
+b3_0147,sound_test,translate,,난이도 / 사운드 테스트 제목·음악·효과음,58,29,ci8,256,0xa58868,workspace/originals/b3_0147.png
+b3_0148,sound_test,translate,,난이도 / 사운드 테스트 제목·음악·효과음,52,29,ci8,256,0xa591b8,workspace/originals/b3_0148.png
+b3_0149,sound_test,translate,,난이도 / 사운드 테스트 제목·음악·효과음,54,29,ci8,256,0xa59a20,workspace/originals/b3_0149.png
+b3_0150,sound_test,translate,,난이도 / 사운드 테스트 제목·음악·효과음,68,29,ci8,256,0xa5a288,workspace/originals/b3_0150.png
+b3_0151,sound_test,translate,,난이도 / 사운드 테스트 제목·음악·효과음,146,38,ci4,16,0xa5acc0,workspace/originals/b3_0151.png
+b3_0153,sound_test,translate,,난이도 / 사운드 테스트 제목·음악·효과음,64,21,i4,0,0xa5cbe8,workspace/originals/b3_0153.png
+b3_0154,sound_test,translate,,난이도 / 사운드 테스트 제목·음악·효과음,64,21,i4,0,0xa5ce98,workspace/originals/b3_0154.png
+b3_0176,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5ee18,workspace/originals/b3_0176.png
+b3_0177,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5ef98,workspace/originals/b3_0177.png
+b3_0178,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5f118,workspace/originals/b3_0178.png
+b3_0179,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5f298,workspace/originals/b3_0179.png
+b3_0180,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5f418,workspace/originals/b3_0180.png
+b3_0181,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5f598,workspace/originals/b3_0181.png
+b3_0182,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5f718,workspace/originals/b3_0182.png
+b3_0183,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5f898,workspace/originals/b3_0183.png
+b3_0184,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5fa18,workspace/originals/b3_0184.png
+b3_0185,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,16,23,ia8,0,0xa5fb98,workspace/originals/b3_0185.png
+b3_0187,movies,translate,ムービー,무비 메뉴 제목,146,38,ci4,16,0xa602c8,workspace/originals/b3_0187.png
+b3_0189,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa621b8,workspace/originals/b3_0189.png
+b3_0190,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa624c8,workspace/originals/b3_0190.png
+b3_0191,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa627d8,workspace/originals/b3_0191.png
+b3_0192,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa62ae8,workspace/originals/b3_0192.png
+b3_0193,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa62df8,workspace/originals/b3_0193.png
+b3_0194,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa63108,workspace/originals/b3_0194.png
+b3_0195,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa63418,workspace/originals/b3_0195.png
+b3_0196,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa63728,workspace/originals/b3_0196.png
+b3_0197,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa63a38,workspace/originals/b3_0197.png
+b3_0198,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa63d48,workspace/originals/b3_0198.png
+b3_0199,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa64058,workspace/originals/b3_0199.png
+b3_0200,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa64368,workspace/originals/b3_0200.png
+b3_0201,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa64678,workspace/originals/b3_0201.png
+b3_0202,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa64988,workspace/originals/b3_0202.png
+b3_0203,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa64c98,workspace/originals/b3_0203.png
+b3_0204,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa64fa8,workspace/originals/b3_0204.png
+b3_0205,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa652b8,workspace/originals/b3_0205.png
+b3_0206,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa655c8,workspace/originals/b3_0206.png
+b3_0207,movies,translate,,무비 목록 제목 / 엔딩·스태프·잠금 항목,124,12,i4,0,0xa658d8,workspace/originals/b3_0207.png
+b3_0211,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,208,29,i4,0,0xa6a188,workspace/originals/b3_0211.png
+b3_0212,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,146,38,ci4,16,0xa6ad60,workspace/originals/b3_0212.png
+b3_0214,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,240,22,i4,0,0xa6d820,workspace/originals/b3_0214.png
+b3_0215,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,242,26,i4,0,0xa6e280,workspace/originals/b3_0215.png
+b3_0216,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,178,27,ci4,16,0xa6ef90,workspace/originals/b3_0216.png
+b3_0217,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,48,22,i4,0,0xa6f9e0,workspace/originals/b3_0217.png
+b3_0218,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,80,30,ci8,64,0xa6fc00,workspace/originals/b3_0218.png
+b3_0219,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,80,30,ci8,64,0xa705f0,workspace/originals/b3_0219.png
+b3_0229,settings,translate,,설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기,36,30,ci8,64,0xa73920,workspace/originals/b3_0229.png
+b3_0231,boss_rush,translate,,보스 러시 제목·안내,146,38,ci4,16,0xa743a0,workspace/originals/b3_0231.png
+b3_0243,boss_rush,translate,,보스 러시 제목·안내,208,29,i4,0,0xa7b480,workspace/originals/b3_0243.png
+b3_0244,collection,translate,コレクション,콜렉션 메뉴 제목,146,38,ci4,16,0xa7c058,workspace/originals/b3_0244.png
+b3_0254,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7f748,workspace/originals/b3_0254.png
+b3_0255,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7f7d0,workspace/originals/b3_0255.png
+b3_0256,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7f858,workspace/originals/b3_0256.png
+b3_0257,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7f8e0,workspace/originals/b3_0257.png
+b3_0258,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7f968,workspace/originals/b3_0258.png
+b3_0259,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7f9f0,workspace/originals/b3_0259.png
+b3_0260,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7fa78,workspace/originals/b3_0260.png
+b3_0261,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7fb00,workspace/originals/b3_0261.png
+b3_0262,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7fb88,workspace/originals/b3_0262.png
+b3_0263,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,12,15,i4,0,0xa7fc10,workspace/originals/b3_0263.png
+b3_0264,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa7fc98,workspace/originals/b3_0264.png
+b3_0265,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa7fe48,workspace/originals/b3_0265.png
+b3_0266,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa7fff8,workspace/originals/b3_0266.png
+b3_0267,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa801a8,workspace/originals/b3_0267.png
+b3_0268,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa80358,workspace/originals/b3_0268.png
+b3_0269,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa80508,workspace/originals/b3_0269.png
+b3_0270,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa806b8,workspace/originals/b3_0270.png
+b3_0271,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa80868,workspace/originals/b3_0271.png
+b3_0272,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa80a18,workspace/originals/b3_0272.png
+b3_0273,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa80bc8,workspace/originals/b3_0273.png
+b3_0274,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa80d78,workspace/originals/b3_0274.png
+b3_0275,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa80f28,workspace/originals/b3_0275.png
+b3_0276,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa810d8,workspace/originals/b3_0276.png
+b3_0277,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa81288,workspace/originals/b3_0277.png
+b3_0278,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa81438,workspace/originals/b3_0278.png
+b3_0279,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa815e8,workspace/originals/b3_0279.png
+b3_0280,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa81798,workspace/originals/b3_0280.png
+b3_0281,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa81948,workspace/originals/b3_0281.png
+b3_0282,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa81af8,workspace/originals/b3_0282.png
+b3_0283,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa81ca8,workspace/originals/b3_0283.png
+b3_0284,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa81e58,workspace/originals/b3_0284.png
+b3_0285,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa82008,workspace/originals/b3_0285.png
+b3_0286,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa821b8,workspace/originals/b3_0286.png
+b3_0287,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),66,13,i4,0,0xa82368,workspace/originals/b3_0287.png
+b3_0288,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa82580,workspace/originals/b3_0288.png
+b3_0289,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa82730,workspace/originals/b3_0289.png
+b3_0290,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa828e0,workspace/originals/b3_0290.png
+b3_0291,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa82a90,workspace/originals/b3_0291.png
+b3_0292,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa82c40,workspace/originals/b3_0292.png
+b3_0293,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa82df0,workspace/originals/b3_0293.png
+b3_0294,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa82fa0,workspace/originals/b3_0294.png
+b3_0295,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa83150,workspace/originals/b3_0295.png
+b3_0296,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa83300,workspace/originals/b3_0296.png
+b3_0297,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa834b0,workspace/originals/b3_0297.png
+b3_0298,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa83660,workspace/originals/b3_0298.png
+b3_0299,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa83810,workspace/originals/b3_0299.png
+b3_0300,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa839c0,workspace/originals/b3_0300.png
+b3_0301,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa83b70,workspace/originals/b3_0301.png
+b3_0302,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa83d20,workspace/originals/b3_0302.png
+b3_0303,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa83ed0,workspace/originals/b3_0303.png
+b3_0304,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa84080,workspace/originals/b3_0304.png
+b3_0305,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa84230,workspace/originals/b3_0305.png
+b3_0306,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa843e0,workspace/originals/b3_0306.png
+b3_0307,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa84590,workspace/originals/b3_0307.png
+b3_0308,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa84740,workspace/originals/b3_0308.png
+b3_0309,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa848f0,workspace/originals/b3_0309.png
+b3_0310,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa84aa0,workspace/originals/b3_0310.png
+b3_0311,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa84c50,workspace/originals/b3_0311.png
+b3_0312,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa84e00,workspace/originals/b3_0312.png
+b3_0313,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa84fb0,workspace/originals/b3_0313.png
+b3_0314,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa85160,workspace/originals/b3_0314.png
+b3_0315,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa85310,workspace/originals/b3_0315.png
+b3_0316,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa854c0,workspace/originals/b3_0316.png
+b3_0317,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa85670,workspace/originals/b3_0317.png
+b3_0318,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa85820,workspace/originals/b3_0318.png
+b3_0319,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa859d0,workspace/originals/b3_0319.png
+b3_0320,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa85b80,workspace/originals/b3_0320.png
+b3_0321,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa85d30,workspace/originals/b3_0321.png
+b3_0322,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa85ee0,workspace/originals/b3_0322.png
+b3_0323,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa86090,workspace/originals/b3_0323.png
+b3_0324,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa86240,workspace/originals/b3_0324.png
+b3_0325,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa863f0,workspace/originals/b3_0325.png
+b3_0326,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa865a0,workspace/originals/b3_0326.png
+b3_0327,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa86750,workspace/originals/b3_0327.png
+b3_0328,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa86900,workspace/originals/b3_0328.png
+b3_0329,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa86ab0,workspace/originals/b3_0329.png
+b3_0330,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa86c60,workspace/originals/b3_0330.png
+b3_0331,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa86e10,workspace/originals/b3_0331.png
+b3_0332,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa86fc0,workspace/originals/b3_0332.png
+b3_0333,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa87170,workspace/originals/b3_0333.png
+b3_0334,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa87320,workspace/originals/b3_0334.png
+b3_0335,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa874d0,workspace/originals/b3_0335.png
+b3_0336,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa87680,workspace/originals/b3_0336.png
+b3_0337,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa87830,workspace/originals/b3_0337.png
+b3_0338,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa879e0,workspace/originals/b3_0338.png
+b3_0339,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa87b90,workspace/originals/b3_0339.png
+b3_0340,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa87d40,workspace/originals/b3_0340.png
+b3_0341,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa87ef0,workspace/originals/b3_0341.png
+b3_0342,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa880a0,workspace/originals/b3_0342.png
+b3_0343,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa88250,workspace/originals/b3_0343.png
+b3_0344,collection_names,translate,,콜렉션의 적/보스 이름 81개 (개별 PNG 확인),64,13,i4,0,0xa88400,workspace/originals/b3_0344.png
+b3_0353,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88d28,workspace/originals/b3_0353.png
+b3_0354,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88d80,workspace/originals/b3_0354.png
+b3_0355,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88dd8,workspace/originals/b3_0355.png
+b3_0356,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88e30,workspace/originals/b3_0356.png
+b3_0357,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88e88,workspace/originals/b3_0357.png
+b3_0358,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88ee0,workspace/originals/b3_0358.png
+b3_0359,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88f38,workspace/originals/b3_0359.png
+b3_0360,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88f90,workspace/originals/b3_0360.png
+b3_0361,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa88fe8,workspace/originals/b3_0361.png
+b3_0362,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,9,i4,0,0xa89040,workspace/originals/b3_0362.png
+b3_0450,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa93d18,workspace/originals/b3_0450.png
+b3_0451,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa93d88,workspace/originals/b3_0451.png
+b3_0452,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa93df8,workspace/originals/b3_0452.png
+b3_0453,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa93e68,workspace/originals/b3_0453.png
+b3_0454,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa93ed8,workspace/originals/b3_0454.png
+b3_0455,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa93f48,workspace/originals/b3_0455.png
+b3_0456,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa93fb8,workspace/originals/b3_0456.png
+b3_0457,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa94028,workspace/originals/b3_0457.png
+b3_0458,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa94098,workspace/originals/b3_0458.png
+b3_0459,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,10,12,i4,0,0xa94108,workspace/originals/b3_0459.png
+b3_0502,world_names,translate,ポップスター,월드 이름 7개 / 레벨 라벨,94,20,ia8,0,0xa9bca0,workspace/originals/b3_0502.png
+b3_0503,world_names,translate,ブルブルスター,월드 이름 7개 / 레벨 라벨,112,20,ia8,0,0xa9c430,workspace/originals/b3_0503.png
+b3_0504,world_names,translate,コレカラスター,월드 이름 7개 / 레벨 라벨,110,20,ia8,0,0xa9cd00,workspace/originals/b3_0504.png
+b3_0505,world_names,translate,リップルスター,월드 이름 7개 / 레벨 라벨,108,20,ia8,0,0xa9d5d0,workspace/originals/b3_0505.png
+b3_0506,world_names,translate,ファイナルスター,월드 이름 7개 / 레벨 라벨,126,20,ia8,0,0xa9dea0,workspace/originals/b3_0506.png
+b3_0507,world_names,translate,ウルルンスター,월드 이름 7개 / 레벨 라벨,110,20,ia8,0,0xa9e8b0,workspace/originals/b3_0507.png
+b3_0508,world_names,translate,ホロビタスター,월드 이름 7개 / 레벨 라벨,110,20,ia8,0,0xa9f180,workspace/originals/b3_0508.png
+b3_0509,world_names,translate,レベル,월드 이름 7개 / 레벨 라벨,38,14,ia8,0,0xa9fa50,workspace/originals/b3_0509.png
+b3_0511,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,13,13,ia8,0,0xa9fee0,workspace/originals/b3_0511.png
+b3_0512,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,13,13,ia8,0,0xa9ffc0,workspace/originals/b3_0512.png
+b3_0513,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,13,13,ia8,0,0xaa00a0,workspace/originals/b3_0513.png
+b3_0514,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,13,13,ia8,0,0xaa0180,workspace/originals/b3_0514.png
+b3_0515,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,13,13,ia8,0,0xaa0260,workspace/originals/b3_0515.png
+b3_0516,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,13,13,ia8,0,0xaa0340,workspace/originals/b3_0516.png
+b3_0517,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,13,13,ia8,0,0xaa0420,workspace/originals/b3_0517.png
+b3_0751,pause,translate,,게임으로 돌아가기 / 최고 기록,144,21,ia8,0,0xacf050,workspace/originals/b3_0751.png
+b3_0752,pause,translate,,게임으로 돌아가기 / 최고 기록,119,15,ia8,0,0xacfc30,workspace/originals/b3_0752.png
+b3_0825,minigame,translate,ようい…,경주 시작·준비·골 안내,96,28,ia8,0,0xb396ae,workspace/originals/b3_0825.png
+b3_0826,minigame,translate,スタート!,경주 시작·준비·골 안내,86,28,ia8,0,0xb3a13e,workspace/originals/b3_0826.png
+b3_0827,minigame,translate,ゴール!,경주 시작·준비·골 안내,64,24,ia8,0,0xb3aaee,workspace/originals/b3_0827.png
+b3_0828,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,32,32,ia8,0,0xb3b0fe,workspace/originals/b3_0828.png
+b3_0829,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,32,32,ia8,0,0xb3b50e,workspace/originals/b3_0829.png
+b3_0830,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,32,32,ia8,0,0xb3b91e,workspace/originals/b3_0830.png
+b3_0831,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,32,32,ia8,0,0xb3bd2e,workspace/originals/b3_0831.png
+b3_0833,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c1be,workspace/originals/b3_0833.png
+b3_0834,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c21e,workspace/originals/b3_0834.png
+b3_0835,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c27e,workspace/originals/b3_0835.png
+b3_0836,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c2de,workspace/originals/b3_0836.png
+b3_0837,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c33e,workspace/originals/b3_0837.png
+b3_0838,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c39e,workspace/originals/b3_0838.png
+b3_0839,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c3fe,workspace/originals/b3_0839.png
+b3_0840,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c45e,workspace/originals/b3_0840.png
+b3_0841,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c4be,workspace/originals/b3_0841.png
+b3_0842,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,10,i4,0,0xb3c51e,workspace/originals/b3_0842.png
+b3_0855,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,40,40,ia8,0,0xb43b6e,workspace/originals/b3_0855.png
+b3_0856,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,40,40,ia8,0,0xb441be,workspace/originals/b3_0856.png
+b3_0857,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,40,40,ia8,0,0xb4480e,workspace/originals/b3_0857.png
+b3_0864,minigame,translate,,승자·결과 발표·최고 기록·재시작/게임 변경/종료,80,18,ia8,0,0xb572be,workspace/originals/b3_0864.png
+b3_0865,minigame,translate,,승자·결과 발표·최고 기록·재시작/게임 변경/종료,80,18,ia8,0,0xb5786e,workspace/originals/b3_0865.png
+b3_0866,minigame,translate,,승자·결과 발표·최고 기록·재시작/게임 변경/종료,80,18,ia8,0,0xb57e1e,workspace/originals/b3_0866.png
+b3_0867,minigame,translate,,승자·결과 발표·최고 기록·재시작/게임 변경/종료,80,18,ia8,0,0xb583ce,workspace/originals/b3_0867.png
+b3_0897,minigame,translate,,승자·결과 발표·최고 기록·재시작/게임 변경/종료,150,34,ci8,256,0xb5d9d2,workspace/originals/b3_0897.png
+b3_0900,minigame,translate,,승자·결과 발표·최고 기록·재시작/게임 변경/종료,192,27,ci8,256,0xb5f1c2,workspace/originals/b3_0900.png
+b3_0903,minigame,translate,,승자·결과 발표·최고 기록·재시작/게임 변경/종료,144,63,ia8,0,0xb6129a,workspace/originals/b3_0903.png
+b4_0185,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,140,18,i8,0,0xdd8cda,workspace/originals/b4_0185.png
+b4_0186,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,62,18,i8,0,0xdd970a,workspace/originals/b4_0186.png
+b4_0187,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,95,18,i8,0,0xdd9b9a,workspace/originals/b4_0187.png
+b4_0188,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,141,18,i8,0,0xdda26a,workspace/originals/b4_0188.png
+b4_0189,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,143,18,i8,0,0xddac9a,workspace/originals/b4_0189.png
+b4_0190,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,125,18,i8,0,0xddb6ca,workspace/originals/b4_0190.png
+b4_0191,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,95,18,i8,0,0xddbfda,workspace/originals/b4_0191.png
+b4_0192,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,95,18,i8,0,0xddc6aa,workspace/originals/b4_0192.png
+b4_0193,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,143,18,i8,0,0xddcd7a,workspace/originals/b4_0193.png
+b4_0194,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xddd7aa,workspace/originals/b4_0194.png
+b4_0195,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xdde0ba,workspace/originals/b4_0195.png
+b4_0196,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xdde9ca,workspace/originals/b4_0196.png
+b4_0197,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xddf2da,workspace/originals/b4_0197.png
+b4_0198,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,79,18,i8,0,0xddfd0a,workspace/originals/b4_0198.png
+b4_0199,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xde02ba,workspace/originals/b4_0199.png
+b4_0200,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde0cea,workspace/originals/b4_0200.png
+b4_0201,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xde15fa,workspace/originals/b4_0201.png
+b4_0202,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde1dea,workspace/originals/b4_0202.png
+b4_0203,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde26fa,workspace/originals/b4_0203.png
+b4_0204,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde300a,workspace/originals/b4_0204.png
+b4_0205,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xde391a,workspace/originals/b4_0205.png
+b4_0206,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde410a,workspace/originals/b4_0206.png
+b4_0207,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,110,18,i8,0,0xde4a1a,workspace/originals/b4_0207.png
+b4_0208,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xde520a,workspace/originals/b4_0208.png
+b4_0209,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,126,18,i8,0,0xde5c3a,workspace/originals/b4_0209.png
+b4_0210,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde654a,workspace/originals/b4_0210.png
+b4_0211,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde6e5a,workspace/originals/b4_0211.png
+b4_0212,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde776a,workspace/originals/b4_0212.png
+b4_0213,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,126,18,i8,0,0xde807a,workspace/originals/b4_0213.png
+b4_0214,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,159,18,i8,0,0xde898a,workspace/originals/b4_0214.png
+b4_0215,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xde94da,workspace/originals/b4_0215.png
+b4_0216,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,143,18,i8,0,0xde9dea,workspace/originals/b4_0216.png
+b4_0217,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,191,18,i8,0,0xdea81a,workspace/originals/b4_0217.png
+b4_0218,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdeb5aa,workspace/originals/b4_0218.png
+b4_0219,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xdebd9a,workspace/originals/b4_0219.png
+b4_0220,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,143,18,i8,0,0xdec7ca,workspace/originals/b4_0220.png
+b4_0221,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xded1fa,workspace/originals/b4_0221.png
+b4_0222,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xded9ea,workspace/originals/b4_0222.png
+b4_0223,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdee41a,workspace/originals/b4_0223.png
+b4_0224,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xdeec0a,workspace/originals/b4_0224.png
+b4_0225,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xdef51a,workspace/originals/b4_0225.png
+b4_0226,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,143,18,i8,0,0xdeff4a,workspace/originals/b4_0226.png
+b4_0227,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdf097a,workspace/originals/b4_0227.png
+b4_0228,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,126,18,i8,0,0xdf116a,workspace/originals/b4_0228.png
+b4_0229,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdf1a7a,workspace/originals/b4_0229.png
+b4_0230,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xdf226a,workspace/originals/b4_0230.png
+b4_0231,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdf2c9a,workspace/originals/b4_0231.png
+b4_0232,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xdf348a,workspace/originals/b4_0232.png
+b4_0233,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdf3d9a,workspace/originals/b4_0233.png
+b4_0234,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,144,18,i8,0,0xdf458a,workspace/originals/b4_0234.png
+b4_0235,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xdf4fba,workspace/originals/b4_0235.png
+b4_0236,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xdf58ca,workspace/originals/b4_0236.png
+b4_0237,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,160,18,i8,0,0xdf62fa,workspace/originals/b4_0237.png
+b4_0238,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,144,18,i8,0,0xdf6e4a,workspace/originals/b4_0238.png
+b4_0239,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,191,18,i8,0,0xdf787a,workspace/originals/b4_0239.png
+b4_0240,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,126,18,i8,0,0xdf860a,workspace/originals/b4_0240.png
+b4_0241,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,175,18,i8,0,0xdf8f1a,workspace/originals/b4_0241.png
+b4_0242,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xdf9b8a,workspace/originals/b4_0242.png
+b4_0243,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdfa49a,workspace/originals/b4_0243.png
+b4_0244,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdfac8a,workspace/originals/b4_0244.png
+b4_0245,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,111,18,i8,0,0xdfb47a,workspace/originals/b4_0245.png
+b4_0246,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,142,18,i8,0,0xdfbc6a,workspace/originals/b4_0246.png
+b4_0247,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,95,18,i8,0,0xdfc69a,workspace/originals/b4_0247.png
+b4_0248,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xdfcd6a,workspace/originals/b4_0248.png
+b4_0249,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,223,18,i8,0,0xdfd67a,workspace/originals/b4_0249.png
+b4_0250,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xdfe64a,workspace/originals/b4_0250.png
+b4_0251,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,61,18,i8,0,0xdfef5a,workspace/originals/b4_0251.png
+b4_0252,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,94,18,i8,0,0xdff3ea,workspace/originals/b4_0252.png
+b4_0253,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,143,18,i8,0,0xdffaba,workspace/originals/b4_0253.png
+b4_0254,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,143,18,i8,0,0xe004ea,workspace/originals/b4_0254.png
+b4_0255,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xe00f1a,workspace/originals/b4_0255.png
+b4_0256,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,127,18,i8,0,0xe0182a,workspace/originals/b4_0256.png
+b4_0257,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,128,18,i8,0,0xe0213a,workspace/originals/b4_0257.png
+b4_0258,credits,translate,,엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요,126,18,i8,0,0xe02a4a,workspace/originals/b4_0258.png
+b4_0259,credits_illustration,review_text,,크레딧 삽화 책 표지 안의 일본어,182,134,ci8,256,0xe0335a,workspace/originals/b4_0259.png
+b5_0004,hud,translate,,일본어 HUD 테마의 한자 표기,320,48,rgba16,0,0x112edd0,workspace/originals/b5_0004.png
+b5_0006,debug_hud,optional,,디버그 HUD에 포함된 영문 라벨,320,48,rgba16,0,0x113ddf0,workspace/originals/b5_0006.png
+b5_0008,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ce10,workspace/originals/b5_0008.png
+b5_0009,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ce80,workspace/originals/b5_0009.png
+b5_0010,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114cef0,workspace/originals/b5_0010.png
+b5_0011,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114cf60,workspace/originals/b5_0011.png
+b5_0012,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114cfd0,workspace/originals/b5_0012.png
+b5_0013,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d040,workspace/originals/b5_0013.png
+b5_0014,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d0b0,workspace/originals/b5_0014.png
+b5_0015,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d120,workspace/originals/b5_0015.png
+b5_0016,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d190,workspace/originals/b5_0016.png
+b5_0017,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d200,workspace/originals/b5_0017.png
+b5_0018,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d270,workspace/originals/b5_0018.png
+b5_0019,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d2e0,workspace/originals/b5_0019.png
+b5_0020,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d350,workspace/originals/b5_0020.png
+b5_0021,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d3c0,workspace/originals/b5_0021.png
+b5_0022,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d430,workspace/originals/b5_0022.png
+b5_0023,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d4a0,workspace/originals/b5_0023.png
+b5_0024,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d510,workspace/originals/b5_0024.png
+b5_0025,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d580,workspace/originals/b5_0025.png
+b5_0026,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d5f0,workspace/originals/b5_0026.png
+b5_0027,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d660,workspace/originals/b5_0027.png
+b5_0028,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d6d0,workspace/originals/b5_0028.png
+b5_0029,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d740,workspace/originals/b5_0029.png
+b5_0030,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d7b0,workspace/originals/b5_0030.png
+b5_0031,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d820,workspace/originals/b5_0031.png
+b5_0032,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d890,workspace/originals/b5_0032.png
+b5_0033,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d900,workspace/originals/b5_0033.png
+b5_0034,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d970,workspace/originals/b5_0034.png
+b5_0035,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114d9e0,workspace/originals/b5_0035.png
+b5_0036,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114da50,workspace/originals/b5_0036.png
+b5_0037,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114dac0,workspace/originals/b5_0037.png
+b5_0038,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114db30,workspace/originals/b5_0038.png
+b5_0039,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114dba0,workspace/originals/b5_0039.png
+b5_0040,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114dc10,workspace/originals/b5_0040.png
+b5_0041,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114dc80,workspace/originals/b5_0041.png
+b5_0042,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114dcf0,workspace/originals/b5_0042.png
+b5_0043,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114dd60,workspace/originals/b5_0043.png
+b5_0044,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ddd0,workspace/originals/b5_0044.png
+b5_0045,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114de40,workspace/originals/b5_0045.png
+b5_0046,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114deb0,workspace/originals/b5_0046.png
+b5_0047,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114df20,workspace/originals/b5_0047.png
+b5_0048,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114df90,workspace/originals/b5_0048.png
+b5_0049,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e000,workspace/originals/b5_0049.png
+b5_0050,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e070,workspace/originals/b5_0050.png
+b5_0051,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e0e0,workspace/originals/b5_0051.png
+b5_0052,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e150,workspace/originals/b5_0052.png
+b5_0053,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e1c0,workspace/originals/b5_0053.png
+b5_0054,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e230,workspace/originals/b5_0054.png
+b5_0055,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e2a0,workspace/originals/b5_0055.png
+b5_0056,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e310,workspace/originals/b5_0056.png
+b5_0057,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e380,workspace/originals/b5_0057.png
+b5_0058,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e3f0,workspace/originals/b5_0058.png
+b5_0059,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e460,workspace/originals/b5_0059.png
+b5_0060,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e4d0,workspace/originals/b5_0060.png
+b5_0061,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e540,workspace/originals/b5_0061.png
+b5_0062,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e5b0,workspace/originals/b5_0062.png
+b5_0063,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e620,workspace/originals/b5_0063.png
+b5_0064,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e690,workspace/originals/b5_0064.png
+b5_0065,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e700,workspace/originals/b5_0065.png
+b5_0066,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e770,workspace/originals/b5_0066.png
+b5_0067,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e7e0,workspace/originals/b5_0067.png
+b5_0068,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e850,workspace/originals/b5_0068.png
+b5_0069,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e8c0,workspace/originals/b5_0069.png
+b5_0070,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e930,workspace/originals/b5_0070.png
+b5_0071,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114e9a0,workspace/originals/b5_0071.png
+b5_0072,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ea10,workspace/originals/b5_0072.png
+b5_0073,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ea80,workspace/originals/b5_0073.png
+b5_0074,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114eaf0,workspace/originals/b5_0074.png
+b5_0075,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114eb60,workspace/originals/b5_0075.png
+b5_0076,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ebd0,workspace/originals/b5_0076.png
+b5_0077,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ec40,workspace/originals/b5_0077.png
+b5_0078,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ecb0,workspace/originals/b5_0078.png
+b5_0079,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ed20,workspace/originals/b5_0079.png
+b5_0080,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ed90,workspace/originals/b5_0080.png
+b5_0081,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ee00,workspace/originals/b5_0081.png
+b5_0082,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ee70,workspace/originals/b5_0082.png
+b5_0083,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114eee0,workspace/originals/b5_0083.png
+b5_0084,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ef50,workspace/originals/b5_0084.png
+b5_0085,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114efc0,workspace/originals/b5_0085.png
+b5_0086,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f030,workspace/originals/b5_0086.png
+b5_0087,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f0a0,workspace/originals/b5_0087.png
+b5_0088,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f110,workspace/originals/b5_0088.png
+b5_0089,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f180,workspace/originals/b5_0089.png
+b5_0090,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f1f0,workspace/originals/b5_0090.png
+b5_0091,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f260,workspace/originals/b5_0091.png
+b5_0092,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f2d0,workspace/originals/b5_0092.png
+b5_0093,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f340,workspace/originals/b5_0093.png
+b5_0094,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f3b0,workspace/originals/b5_0094.png
+b5_0095,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f420,workspace/originals/b5_0095.png
+b5_0096,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f490,workspace/originals/b5_0096.png
+b5_0097,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f500,workspace/originals/b5_0097.png
+b5_0098,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f570,workspace/originals/b5_0098.png
+b5_0099,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f5e0,workspace/originals/b5_0099.png
+b5_0100,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f650,workspace/originals/b5_0100.png
+b5_0101,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f6c0,workspace/originals/b5_0101.png
+b5_0102,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f730,workspace/originals/b5_0102.png
+b5_0103,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f7a0,workspace/originals/b5_0103.png
+b5_0104,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f810,workspace/originals/b5_0104.png
+b5_0105,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f880,workspace/originals/b5_0105.png
+b5_0106,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f8f0,workspace/originals/b5_0106.png
+b5_0107,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f960,workspace/originals/b5_0107.png
+b5_0108,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114f9d0,workspace/originals/b5_0108.png
+b5_0109,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fa40,workspace/originals/b5_0109.png
+b5_0110,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fab0,workspace/originals/b5_0110.png
+b5_0111,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fb20,workspace/originals/b5_0111.png
+b5_0112,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fb90,workspace/originals/b5_0112.png
+b5_0113,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fc00,workspace/originals/b5_0113.png
+b5_0114,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fc70,workspace/originals/b5_0114.png
+b5_0115,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fce0,workspace/originals/b5_0115.png
+b5_0116,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fd50,workspace/originals/b5_0116.png
+b5_0117,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fdc0,workspace/originals/b5_0117.png
+b5_0118,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fe30,workspace/originals/b5_0118.png
+b5_0119,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fea0,workspace/originals/b5_0119.png
+b5_0120,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ff10,workspace/originals/b5_0120.png
+b5_0121,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114ff80,workspace/originals/b5_0121.png
+b5_0122,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x114fff0,workspace/originals/b5_0122.png
+b5_0123,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150060,workspace/originals/b5_0123.png
+b5_0124,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x11500d0,workspace/originals/b5_0124.png
+b5_0125,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150140,workspace/originals/b5_0125.png
+b5_0126,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x11501b0,workspace/originals/b5_0126.png
+b5_0127,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150220,workspace/originals/b5_0127.png
+b5_0128,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150290,workspace/originals/b5_0128.png
+b5_0129,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150300,workspace/originals/b5_0129.png
+b5_0130,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150370,workspace/originals/b5_0130.png
+b5_0131,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x11503e0,workspace/originals/b5_0131.png
+b5_0132,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150450,workspace/originals/b5_0132.png
+b5_0133,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x11504c0,workspace/originals/b5_0133.png
+b5_0134,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150530,workspace/originals/b5_0134.png
+b5_0135,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x11505a0,workspace/originals/b5_0135.png
+b5_0136,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150610,workspace/originals/b5_0136.png
+b5_0137,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150680,workspace/originals/b5_0137.png
+b5_0138,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x11506f0,workspace/originals/b5_0138.png
+b5_0139,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150760,workspace/originals/b5_0139.png
+b5_0140,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x11507d0,workspace/originals/b5_0140.png
+b5_0141,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150840,workspace/originals/b5_0141.png
+b5_0142,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x11508b0,workspace/originals/b5_0142.png
+b5_0143,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150920,workspace/originals/b5_0143.png
+b5_0144,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150990,workspace/originals/b5_0144.png
+b5_0145,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150a00,workspace/originals/b5_0145.png
+b5_0146,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150a70,workspace/originals/b5_0146.png
+b5_0147,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150ae0,workspace/originals/b5_0147.png
+b5_0148,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150b50,workspace/originals/b5_0148.png
+b5_0149,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150bc0,workspace/originals/b5_0149.png
+b5_0150,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150c30,workspace/originals/b5_0150.png
+b5_0151,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150ca0,workspace/originals/b5_0151.png
+b5_0152,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150d10,workspace/originals/b5_0152.png
+b5_0153,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150d80,workspace/originals/b5_0153.png
+b5_0154,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150df0,workspace/originals/b5_0154.png
+b5_0155,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150e60,workspace/originals/b5_0155.png
+b5_0156,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150ed0,workspace/originals/b5_0156.png
+b5_0157,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150f40,workspace/originals/b5_0157.png
+b5_0158,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1150fb0,workspace/originals/b5_0158.png
+b5_0159,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1151020,workspace/originals/b5_0159.png
+b5_0160,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,6,6,rgba16,0,0x1151090,workspace/originals/b5_0160.png
+b5_0167,hud,translate,,일본어 HUD 테마의 한자 표기,20,26,rgba16,0,0x11529c0,workspace/originals/b5_0167.png
+b5_0168,hud,translate,,일본어 HUD 테마의 한자 표기,20,26,rgba16,0,0x1152de0,workspace/originals/b5_0168.png
+b5_0191,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1154260,workspace/originals/b5_0191.png
+b5_0192,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1154720,workspace/originals/b5_0192.png
+b5_0193,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1154be0,workspace/originals/b5_0193.png
+b5_0194,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11550a0,workspace/originals/b5_0194.png
+b5_0195,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1155560,workspace/originals/b5_0195.png
+b5_0196,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1155a20,workspace/originals/b5_0196.png
+b5_0197,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1155ee0,workspace/originals/b5_0197.png
+b5_0198,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11563a0,workspace/originals/b5_0198.png
+b5_0199,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1156860,workspace/originals/b5_0199.png
+b5_0200,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1156d20,workspace/originals/b5_0200.png
+b5_0201,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11571e0,workspace/originals/b5_0201.png
+b5_0202,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11576a0,workspace/originals/b5_0202.png
+b5_0203,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1157b60,workspace/originals/b5_0203.png
+b5_0204,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1158020,workspace/originals/b5_0204.png
+b5_0205,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11584e0,workspace/originals/b5_0205.png
+b5_0206,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11589a0,workspace/originals/b5_0206.png
+b5_0207,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1158e60,workspace/originals/b5_0207.png
+b5_0208,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1159320,workspace/originals/b5_0208.png
+b5_0209,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11597e0,workspace/originals/b5_0209.png
+b5_0210,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1159ca0,workspace/originals/b5_0210.png
+b5_0211,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115a160,workspace/originals/b5_0211.png
+b5_0212,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115a620,workspace/originals/b5_0212.png
+b5_0213,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115aae0,workspace/originals/b5_0213.png
+b5_0214,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115afa0,workspace/originals/b5_0214.png
+b5_0215,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115b460,workspace/originals/b5_0215.png
+b5_0216,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115b920,workspace/originals/b5_0216.png
+b5_0217,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115bde0,workspace/originals/b5_0217.png
+b5_0218,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115c2a0,workspace/originals/b5_0218.png
+b5_0219,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115c760,workspace/originals/b5_0219.png
+b5_0220,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x115cc20,workspace/originals/b5_0220.png
+b5_0221,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115d0e0,workspace/originals/b5_0221.png
+b5_0222,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115d5a0,workspace/originals/b5_0222.png
+b5_0223,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115da60,workspace/originals/b5_0223.png
+b5_0224,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115df20,workspace/originals/b5_0224.png
+b5_0225,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115e3e0,workspace/originals/b5_0225.png
+b5_0226,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115e8a0,workspace/originals/b5_0226.png
+b5_0227,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115ed60,workspace/originals/b5_0227.png
+b5_0228,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115f220,workspace/originals/b5_0228.png
+b5_0229,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115f6e0,workspace/originals/b5_0229.png
+b5_0230,hud_numeric,optional,,일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항,18,30,rgba16,0,0x115fba0,workspace/originals/b5_0230.png
+b5_0231,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1160060,workspace/originals/b5_0231.png
+b5_0232,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1160520,workspace/originals/b5_0232.png
+b5_0233,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11609e0,workspace/originals/b5_0233.png
+b5_0234,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1160ea0,workspace/originals/b5_0234.png
+b5_0235,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1161360,workspace/originals/b5_0235.png
+b5_0236,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1161820,workspace/originals/b5_0236.png
+b5_0237,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1161ce0,workspace/originals/b5_0237.png
+b5_0238,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x11621a0,workspace/originals/b5_0238.png
+b5_0239,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1162660,workspace/originals/b5_0239.png
+b5_0240,glyph,optional,,숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능,18,30,rgba16,0,0x1162b20,workspace/originals/b5_0240.png
+b5_0251,hud_ability,translate,無,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x1166c80,workspace/originals/b5_0251.png
+b5_0252,hud_ability,translate,火,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x1167290,workspace/originals/b5_0252.png
+b5_0253,hud_ability,translate,石,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x11678a0,workspace/originals/b5_0253.png
+b5_0254,hud_ability,translate,針,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x1167eb0,workspace/originals/b5_0254.png
+b5_0255,hud_ability,translate,爆,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x11684c0,workspace/originals/b5_0255.png
+b5_0256,hud_ability,translate,電,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x1168ad0,workspace/originals/b5_0256.png
+b5_0257,hud_ability,translate,切,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x11690e0,workspace/originals/b5_0257.png
+b5_0258,hud_ability,translate,氷,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x11696f0,workspace/originals/b5_0258.png
+b5_0259,hud_ability,translate,妖,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x1169d00,workspace/originals/b5_0259.png
+b5_0260,hud_ability,translate,晶,일본어 HUD 테마 능력 한자 10개,24,32,rgba16,0,0x116a310,workspace/originals/b5_0260.png
+b5_0271,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,266,27,i4,0,0x116e5c0,workspace/originals/b5_0271.png
+b5_0272,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,266,27,i4,0,0x116f428,workspace/originals/b5_0272.png
+b5_0273,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,96,23,ci4,16,0x1170290,workspace/originals/b5_0273.png
+b5_0274,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,96,23,ci4,16,0x1170710,workspace/originals/b5_0274.png
+b5_0275,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,266,27,i4,0,0x1170b90,workspace/originals/b5_0275.png
+b5_0276,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,266,27,i4,0,0x11719f8,workspace/originals/b5_0276.png
+b5_0277,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,96,23,ci4,16,0x1172860,workspace/originals/b5_0277.png
+b5_0278,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,96,23,ci4,16,0x1172ce0,workspace/originals/b5_0278.png
+b5_0279,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,266,27,i4,0,0x1173160,workspace/originals/b5_0279.png
+b5_0280,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,266,27,i4,0,0x1173fc8,workspace/originals/b5_0280.png
+b5_0281,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,96,23,ci4,16,0x1174e30,workspace/originals/b5_0281.png
+b5_0282,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,128,23,ci4,16,0x11752b0,workspace/originals/b5_0282.png
+b5_0283,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,96,24,i4,0,0x11758a0,workspace/originals/b5_0283.png
+b5_0284,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,96,24,i4,0,0x1175d30,workspace/originals/b5_0284.png
+b5_0285,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,96,24,i4,0,0x11761c0,workspace/originals/b5_0285.png
+b5_0286,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,176,34,i4,0,0x1176650,workspace/originals/b5_0286.png
+b5_0287,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,160,24,i4,0,0x1177210,workspace/originals/b5_0287.png
+b5_0288,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,128,34,i4,0,0x11779a0,workspace/originals/b5_0288.png
+b5_0289,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,112,26,i4,0,0x1178230,workspace/originals/b5_0289.png
+b5_0290,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,64,24,i4,0,0x11787f0,workspace/originals/b5_0290.png
+b5_0291,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,176,34,i4,0,0x1178b00,workspace/originals/b5_0291.png
+b5_0292,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,160,34,i4,0,0x11796c0,workspace/originals/b5_0292.png
+b5_0293,tutorial,translate,,계속/다시/노력/포기 선택지 및 조작법 설명,172,23,i4,0,0x117a170,workspace/originals/b5_0293.png
+b5_0298,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,272,16,i4,0,0x117b448,workspace/originals/b5_0298.png
+b5_0299,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,102,16,i4,0,0x117bcd8,workspace/originals/b5_0299.png
+b5_0300,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,192,16,i4,0,0x117c068,workspace/originals/b5_0300.png
+b5_0303,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,96,26,i4,0,0x117cd28,workspace/originals/b5_0303.png
+b5_0304,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,96,26,i4,0,0x117d218,workspace/originals/b5_0304.png
+b5_0305,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,96,26,ia8,0,0x117d708,workspace/originals/b5_0305.png
+b5_0306,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,96,26,ia8,0,0x117e0d8,workspace/originals/b5_0306.png
+b5_0308,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,96,26,i4,0,0x117ec48,workspace/originals/b5_0308.png
+b5_0309,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,96,26,i4,0,0x117f138,workspace/originals/b5_0309.png
+b5_0310,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,96,26,ia8,0,0x117f628,workspace/originals/b5_0310.png
+b5_0311,tutorial,translate,,조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기,96,26,ia8,0,0x117fff8,workspace/originals/b5_0311.png

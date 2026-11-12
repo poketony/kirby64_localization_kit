@@ -1,0 +1,57 @@
+{
+  "all_original_pngs_and_atlases": {
+    "image_png_roundtrips": 993,
+    "hud_atlas_cells": 153,
+    "crash_font_cells": 45,
+    "complete_rom_byte_identical": true,
+    "source_sha1": "03257c820b7705400c32bde1bcc3161c55814605",
+    "original_n64_checksum_matches_calculation": true
+  },
+  "edited_formats": [
+    "ci8",
+    "i4",
+    "rgba16",
+    "ci4",
+    "ia4",
+    "ia8",
+    "ia16",
+    "i8"
+  ],
+  "mixed_images_fonts_text": {
+    "changed_bytes": 26,
+    "only_declared_resources_changed": true,
+    "image_headers_and_padding_preserved": true,
+    "n64_checksum_valid": true,
+    "output_sha1": "0741849466e69a5124617393fc048098d2634fc0",
+    "emulator_test": "not_run"
+  },
+  "native_font_and_text_triggered_checksum_update": true,
+  "saved_rom_reextracts_as_expected": true,
+  "korean_bitmap_demo": {
+    "render": [
+      {
+        "id": "b3_0035",
+        "font_size": 14,
+        "text": "옵션",
+        "warning": ""
+      }
+    ],
+    "verification": {
+      "changed_bytes": 280,
+      "only_declared_resources_changed": true,
+      "image_headers_and_padding_preserved": true,
+      "n64_checksum_valid": true,
+      "output_sha1": "9726661fa2ba0847395559693ca5ef701f9afb89",
+      "emulator_test": "not_run"
+    }
+  },
+  "wrong_dimensions_rejected": true,
+  "unicode_rejected": true,
+  "overflow_rejected": true,
+  "changed_format_rejected": true,
+  "new_printf_argument_rejected": true,
+  "existing_output_rejected": true,
+  "undeclared_change_rejected": true,
+  "original_rom_unchanged": true,
+  "default_workspace_preserves_previous_korean_title_exactly": true
+}

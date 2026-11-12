@@ -1,0 +1,39 @@
+{
+  "game": "Hoshi no Kirby 64 (Japan) (Rev 3)",
+  "source_sha1": "03257c820b7705400c32bde1bcc3161c55814605",
+  "image_blocks": 4521,
+  "decoded_images": 993,
+  "translation_status_counts": {
+    "done_title": 1,
+    "translate": 337,
+    "keep_english": 1,
+    "review_text": 2,
+    "optional": 294
+  },
+  "translation_category_counts": {
+    "title": 1,
+    "system": 2,
+    "menu": 23,
+    "minigame": 66,
+    "sound_test": 7,
+    "movies": 20,
+    "settings": 9,
+    "boss_rush": 2,
+    "collection": 1,
+    "collection_names": 81,
+    "world_names": 8,
+    "pause": 2,
+    "credits": 74,
+    "credits_illustration": 1,
+    "hud": 3,
+    "debug_hud": 1,
+    "hud_numeric": 10,
+    "hud_ability": 10,
+    "tutorial": 34,
+    "glyph": 280
+  },
+  "internal_ascii_strings": 312,
+  "emulator_test": "not_performed",
+  "new_runtime_hangul_engine": false,
+  "existing_korean_title_in_default_edits": true
+}

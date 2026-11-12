@@ -1,0 +1,2384 @@
+{
+  "crash_renderer": "7-bit input; ASCII lowercase aliases uppercase; no Unicode/Hangul renderer",
+  "crash": [
+    {
+      "glyph": 0,
+      "characters": "0",
+      "atlas_xy": [
+        0,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 1,
+      "characters": "1",
+      "atlas_xy": [
+        6,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 2,
+      "characters": "2",
+      "atlas_xy": [
+        12,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 3,
+      "characters": "3",
+      "atlas_xy": [
+        18,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 4,
+      "characters": "4",
+      "atlas_xy": [
+        24,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 5,
+      "characters": "5",
+      "atlas_xy": [
+        30,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 6,
+      "characters": "6",
+      "atlas_xy": [
+        36,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 7,
+      "characters": "7",
+      "atlas_xy": [
+        42,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 8,
+      "characters": "8",
+      "atlas_xy": [
+        48,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 9,
+      "characters": "9",
+      "atlas_xy": [
+        54,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 10,
+      "characters": "Aa",
+      "atlas_xy": [
+        60,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 11,
+      "characters": "Bb",
+      "atlas_xy": [
+        66,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 12,
+      "characters": "Cc",
+      "atlas_xy": [
+        72,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 13,
+      "characters": "Dd",
+      "atlas_xy": [
+        78,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 14,
+      "characters": "Ee",
+      "atlas_xy": [
+        84,
+        0
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 15,
+      "characters": "Ff",
+      "atlas_xy": [
+        0,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 16,
+      "characters": "Gg",
+      "atlas_xy": [
+        6,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 17,
+      "characters": "Hh",
+      "atlas_xy": [
+        12,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 18,
+      "characters": "Ii",
+      "atlas_xy": [
+        18,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 19,
+      "characters": "Jj",
+      "atlas_xy": [
+        24,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 20,
+      "characters": "Kk",
+      "atlas_xy": [
+        30,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 21,
+      "characters": "Ll",
+      "atlas_xy": [
+        36,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 22,
+      "characters": "Mm",
+      "atlas_xy": [
+        42,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 23,
+      "characters": "Nn",
+      "atlas_xy": [
+        48,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 24,
+      "characters": "Oo",
+      "atlas_xy": [
+        54,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 25,
+      "characters": "Pp",
+      "atlas_xy": [
+        60,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 26,
+      "characters": "Qq",
+      "atlas_xy": [
+        66,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 27,
+      "characters": "Rr",
+      "atlas_xy": [
+        72,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 28,
+      "characters": "Ss",
+      "atlas_xy": [
+        78,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 29,
+      "characters": "Tt",
+      "atlas_xy": [
+        84,
+        7
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 30,
+      "characters": "Uu",
+      "atlas_xy": [
+        0,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 31,
+      "characters": "Vv",
+      "atlas_xy": [
+        6,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 32,
+      "characters": "Ww",
+      "atlas_xy": [
+        12,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 33,
+      "characters": "Xx",
+      "atlas_xy": [
+        18,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 34,
+      "characters": "Yy",
+      "atlas_xy": [
+        24,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 35,
+      "characters": "Zz",
+      "atlas_xy": [
+        30,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 36,
+      "characters": ":",
+      "atlas_xy": [
+        36,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 37,
+      "characters": "(",
+      "atlas_xy": [
+        42,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 38,
+      "characters": ")",
+      "atlas_xy": [
+        48,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 39,
+      "characters": "-",
+      "atlas_xy": [
+        54,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 40,
+      "characters": "?",
+      "atlas_xy": [
+        60,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 41,
+      "characters": "!",
+      "atlas_xy": [
+        66,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 42,
+      "characters": "+",
+      "atlas_xy": [
+        72,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 43,
+      "characters": "%",
+      "atlas_xy": [
+        78,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    },
+    {
+      "glyph": 44,
+      "characters": ".",
+      "atlas_xy": [
+        84,
+        14
+      ],
+      "cell": [
+        6,
+        7
+      ]
+    }
+  ],
+  "hud_small": "Visual A-Z/digit identification; precise runtime character-code mapping not established",
+  "hud_small_cells": [
+    {
+      "id": "b5_0008",
+      "visual_label": "A / white",
+      "atlas_xy": [
+        0,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0009",
+      "visual_label": "B / white",
+      "atlas_xy": [
+        6,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0010",
+      "visual_label": "C / white",
+      "atlas_xy": [
+        12,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0011",
+      "visual_label": "D / white",
+      "atlas_xy": [
+        18,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0012",
+      "visual_label": "E / white",
+      "atlas_xy": [
+        24,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0013",
+      "visual_label": "F / white",
+      "atlas_xy": [
+        30,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0014",
+      "visual_label": "G / white",
+      "atlas_xy": [
+        36,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0015",
+      "visual_label": "H / white",
+      "atlas_xy": [
+        42,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0016",
+      "visual_label": "I / white",
+      "atlas_xy": [
+        48,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0017",
+      "visual_label": "J / white",
+      "atlas_xy": [
+        54,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0018",
+      "visual_label": "K / white",
+      "atlas_xy": [
+        60,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0019",
+      "visual_label": "L / white",
+      "atlas_xy": [
+        66,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0020",
+      "visual_label": "M / white",
+      "atlas_xy": [
+        72,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0021",
+      "visual_label": "N / white",
+      "atlas_xy": [
+        78,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0022",
+      "visual_label": "O / white",
+      "atlas_xy": [
+        84,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0023",
+      "visual_label": "P / white",
+      "atlas_xy": [
+        90,
+        0
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0024",
+      "visual_label": "Q / white",
+      "atlas_xy": [
+        0,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0025",
+      "visual_label": "R / white",
+      "atlas_xy": [
+        6,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0026",
+      "visual_label": "S / white",
+      "atlas_xy": [
+        12,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0027",
+      "visual_label": "T / white",
+      "atlas_xy": [
+        18,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0028",
+      "visual_label": "U / white",
+      "atlas_xy": [
+        24,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0029",
+      "visual_label": "V / white",
+      "atlas_xy": [
+        30,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0030",
+      "visual_label": "W / white",
+      "atlas_xy": [
+        36,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0031",
+      "visual_label": "X / white",
+      "atlas_xy": [
+        42,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0032",
+      "visual_label": "Y / white",
+      "atlas_xy": [
+        48,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0033",
+      "visual_label": "Z / white",
+      "atlas_xy": [
+        54,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0034",
+      "visual_label": "A / red",
+      "atlas_xy": [
+        60,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0035",
+      "visual_label": "B / red",
+      "atlas_xy": [
+        66,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0036",
+      "visual_label": "C / red",
+      "atlas_xy": [
+        72,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0037",
+      "visual_label": "D / red",
+      "atlas_xy": [
+        78,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0038",
+      "visual_label": "E / red",
+      "atlas_xy": [
+        84,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0039",
+      "visual_label": "F / red",
+      "atlas_xy": [
+        90,
+        6
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0040",
+      "visual_label": "G / red",
+      "atlas_xy": [
+        0,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0041",
+      "visual_label": "H / red",
+      "atlas_xy": [
+        6,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0042",
+      "visual_label": "I / red",
+      "atlas_xy": [
+        12,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0043",
+      "visual_label": "J / red",
+      "atlas_xy": [
+        18,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0044",
+      "visual_label": "K / red",
+      "atlas_xy": [
+        24,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0045",
+      "visual_label": "L / red",
+      "atlas_xy": [
+        30,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0046",
+      "visual_label": "M / red",
+      "atlas_xy": [
+        36,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0047",
+      "visual_label": "N / red",
+      "atlas_xy": [
+        42,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0048",
+      "visual_label": "O / red",
+      "atlas_xy": [
+        48,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0049",
+      "visual_label": "P / red",
+      "atlas_xy": [
+        54,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0050",
+      "visual_label": "Q / red",
+      "atlas_xy": [
+        60,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0051",
+      "visual_label": "R / red",
+      "atlas_xy": [
+        66,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0052",
+      "visual_label": "S / red",
+      "atlas_xy": [
+        72,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0053",
+      "visual_label": "T / red",
+      "atlas_xy": [
+        78,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0054",
+      "visual_label": "U / red",
+      "atlas_xy": [
+        84,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0055",
+      "visual_label": "V / red",
+      "atlas_xy": [
+        90,
+        12
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0056",
+      "visual_label": "W / red",
+      "atlas_xy": [
+        0,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0057",
+      "visual_label": "X / red",
+      "atlas_xy": [
+        6,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0058",
+      "visual_label": "Y / red",
+      "atlas_xy": [
+        12,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0059",
+      "visual_label": "Z / red",
+      "atlas_xy": [
+        18,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0060",
+      "visual_label": "0 / white",
+      "atlas_xy": [
+        24,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0061",
+      "visual_label": "1 / white",
+      "atlas_xy": [
+        30,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0062",
+      "visual_label": "2 / white",
+      "atlas_xy": [
+        36,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0063",
+      "visual_label": "3 / white",
+      "atlas_xy": [
+        42,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0064",
+      "visual_label": "4 / white",
+      "atlas_xy": [
+        48,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0065",
+      "visual_label": "5 / white",
+      "atlas_xy": [
+        54,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0066",
+      "visual_label": "6 / white",
+      "atlas_xy": [
+        60,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0067",
+      "visual_label": "7 / white",
+      "atlas_xy": [
+        66,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0068",
+      "visual_label": "8 / white",
+      "atlas_xy": [
+        72,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0069",
+      "visual_label": "9 / white",
+      "atlas_xy": [
+        78,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0070",
+      "visual_label": "0 / red",
+      "atlas_xy": [
+        84,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0071",
+      "visual_label": "1 / red",
+      "atlas_xy": [
+        90,
+        18
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0072",
+      "visual_label": "2 / red",
+      "atlas_xy": [
+        0,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0073",
+      "visual_label": "3 / red",
+      "atlas_xy": [
+        6,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0074",
+      "visual_label": "4 / red",
+      "atlas_xy": [
+        12,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0075",
+      "visual_label": "5 / red",
+      "atlas_xy": [
+        18,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0076",
+      "visual_label": "6 / red",
+      "atlas_xy": [
+        24,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0077",
+      "visual_label": "7 / red",
+      "atlas_xy": [
+        30,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0078",
+      "visual_label": "8 / red",
+      "atlas_xy": [
+        36,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0079",
+      "visual_label": "9 / red",
+      "atlas_xy": [
+        42,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0080",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        48,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0081",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        54,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0082",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        60,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0083",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        66,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0084",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        72,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0085",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        78,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0086",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        84,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0087",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        90,
+        24
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0088",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        0,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0089",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        6,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0090",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        12,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0091",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        18,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0092",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        24,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0093",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        30,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0094",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        36,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0095",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        42,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0096",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        48,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0097",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        54,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0098",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        60,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0099",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        66,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0100",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        72,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0101",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        78,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0102",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        84,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0103",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        90,
+        30
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0104",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        0,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0105",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        6,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0106",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        12,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0107",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        18,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0108",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        24,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0109",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        30,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0110",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        36,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0111",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        42,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0112",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        48,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0113",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        54,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0114",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        60,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0115",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        66,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0116",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        72,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0117",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        78,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0118",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        84,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0119",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        90,
+        36
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0120",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        0,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0121",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        6,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0122",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        12,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0123",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        18,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0124",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        24,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0125",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        30,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0126",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        36,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0127",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        42,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0128",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        48,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0129",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        54,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0130",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        60,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0131",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        66,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0132",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        72,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0133",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        78,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0134",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        84,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0135",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        90,
+        42
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0136",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        0,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0137",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        6,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0138",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        12,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0139",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        18,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0140",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        24,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0141",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        30,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0142",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        36,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0143",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        42,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0144",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        48,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0145",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        54,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0146",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        60,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0147",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        66,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0148",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        72,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0149",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        78,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0150",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        84,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0151",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        90,
+        48
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0152",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        0,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0153",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        6,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0154",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        12,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0155",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        18,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0156",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        24,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0157",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        30,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0158",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        36,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0159",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        42,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "b5_0160",
+      "visual_label": "symbol; inspect image",
+      "atlas_xy": [
+        48,
+        54
+      ],
+      "cell": [
+        6,
+        6
+      ]
+    }
+  ]
+}

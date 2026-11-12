@@ -1,0 +1,5066 @@
+[
+  {
+    "id": "b0_0026",
+    "original": "コントローラがささっていません\nほんたいのでんげんをきってから\nコントローラをせつぞくしてください",
+    "source_note": "컨트롤러 미연결 안내",
+    "category": "system",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0002",
+    "original": "",
+    "source_note": "파일 선택 화면 배경 안의 제목",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0003",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0004",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0025",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0026",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0027",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0028",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0029",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0030",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0031",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0035",
+    "original": "",
+    "source_note": "파일 선택/옵션; 선택·비선택 상태 포함",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0050",
+    "original": "コンフィグ",
+    "source_note": "옵션 항목 작은 라벨",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0051",
+    "original": "サウンドテスト",
+    "source_note": "옵션 항목 작은 라벨",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0052",
+    "original": "ミニゲーム",
+    "source_note": "옵션 항목 작은 라벨",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0053",
+    "original": "ぼすぶっち",
+    "source_note": "옵션 항목 작은 라벨",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0054",
+    "original": "ムービー",
+    "source_note": "옵션 항목 작은 라벨",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0055",
+    "original": "コレクション",
+    "source_note": "옵션 항목 작은 라벨",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0056",
+    "original": "シールプリント",
+    "source_note": "옵션 항목 작은 라벨",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0057",
+    "original": "",
+    "source_note": "잠금 항목 물음표",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0058",
+    "original": "",
+    "source_note": "파일 지우기 확인 / 예·아니오",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0059",
+    "original": "",
+    "source_note": "파일 지우기 확인 / 예·아니오",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0066",
+    "original": "",
+    "source_note": "파일 지우기 확인 / 예·아니오",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0067",
+    "original": "",
+    "source_note": "파일 지우기 확인 / 예·아니오",
+    "category": "menu",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0070",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0076",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0077",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0078",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0079",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0080",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0081",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0087",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0088",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0089",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0090",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0092",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0093",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0094",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0095",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0097",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0098",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0099",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0100",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0101",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0102",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0103",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0104",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0106",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0107",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0108",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0109",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0110",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0111",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0112",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0113",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0115",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0116",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0117",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0118",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0119",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0120",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0121",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0122",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0123",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0124",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0127",
+    "original": "",
+    "source_note": "미니게임 제목·설명·조작법·참가·인원·스테이지·COM 난이도",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0126",
+    "original": "",
+    "source_note": "COM / START 영문 라벨",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0129",
+    "original": "",
+    "source_note": "COM / START 영문 라벨",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0131",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0132",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0133",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0134",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0135",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0136",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0137",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0138",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0139",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0140",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0141",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0142",
+    "original": "",
+    "source_note": "스테이지 1~4와 난이도; 선택·비선택 상태 포함",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0147",
+    "original": "",
+    "source_note": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "category": "sound_test",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0148",
+    "original": "",
+    "source_note": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "category": "sound_test",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0149",
+    "original": "",
+    "source_note": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "category": "sound_test",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0150",
+    "original": "",
+    "source_note": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "category": "sound_test",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0151",
+    "original": "",
+    "source_note": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "category": "sound_test",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0153",
+    "original": "",
+    "source_note": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "category": "sound_test",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0154",
+    "original": "",
+    "source_note": "난이도 / 사운드 테스트 제목·음악·효과음",
+    "category": "sound_test",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0187",
+    "original": "ムービー",
+    "source_note": "무비 메뉴 제목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0189",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0190",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0191",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0192",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0193",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0194",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0195",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0196",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0197",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0198",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0199",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0200",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0201",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0202",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0203",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0204",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0205",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0206",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0207",
+    "original": "",
+    "source_note": "무비 목록 제목 / 엔딩·스태프·잠금 항목",
+    "category": "movies",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0211",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0212",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0214",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0215",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0216",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0217",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0218",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0219",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0229",
+    "original": "",
+    "source_note": "설정 제목·설명 / 스테레오·모노 / HUD 테마의 한자 표기",
+    "category": "settings",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0231",
+    "original": "",
+    "source_note": "보스 러시 제목·안내",
+    "category": "boss_rush",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0243",
+    "original": "",
+    "source_note": "보스 러시 제목·안내",
+    "category": "boss_rush",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0244",
+    "original": "コレクション",
+    "source_note": "콜렉션 메뉴 제목",
+    "category": "collection",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0264",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0265",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0266",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0267",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0268",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0269",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0270",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0271",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0272",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0273",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0274",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0275",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0276",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0277",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0278",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0279",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0280",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0281",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0282",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0283",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0284",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0285",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0286",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0287",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0288",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0289",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0290",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0291",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0292",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0293",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0294",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0295",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0296",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0297",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0298",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0299",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0300",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0301",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0302",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0303",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0304",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0305",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0306",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0307",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0308",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0309",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0310",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0311",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0312",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0313",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0314",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0315",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0316",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0317",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0318",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0319",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0320",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0321",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0322",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0323",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0324",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0325",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0326",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0327",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0328",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0329",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0330",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0331",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0332",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0333",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0334",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0335",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0336",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0337",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0338",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0339",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0340",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0341",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0342",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0343",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0344",
+    "original": "",
+    "source_note": "콜렉션의 적/보스 이름 81개 (개별 PNG 확인)",
+    "category": "collection_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0502",
+    "original": "ポップスター",
+    "source_note": "월드 이름 7개 / 레벨 라벨",
+    "category": "world_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0503",
+    "original": "ブルブルスター",
+    "source_note": "월드 이름 7개 / 레벨 라벨",
+    "category": "world_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0504",
+    "original": "コレカラスター",
+    "source_note": "월드 이름 7개 / 레벨 라벨",
+    "category": "world_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0505",
+    "original": "リップルスター",
+    "source_note": "월드 이름 7개 / 레벨 라벨",
+    "category": "world_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0506",
+    "original": "ファイナルスター",
+    "source_note": "월드 이름 7개 / 레벨 라벨",
+    "category": "world_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0507",
+    "original": "ウルルンスター",
+    "source_note": "월드 이름 7개 / 레벨 라벨",
+    "category": "world_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0508",
+    "original": "ホロビタスター",
+    "source_note": "월드 이름 7개 / 레벨 라벨",
+    "category": "world_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0509",
+    "original": "レベル",
+    "source_note": "월드 이름 7개 / 레벨 라벨",
+    "category": "world_names",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0751",
+    "original": "",
+    "source_note": "게임으로 돌아가기 / 최고 기록",
+    "category": "pause",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0752",
+    "original": "",
+    "source_note": "게임으로 돌아가기 / 최고 기록",
+    "category": "pause",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0825",
+    "original": "ようい…",
+    "source_note": "경주 시작·준비·골 안내",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0826",
+    "original": "スタート!",
+    "source_note": "경주 시작·준비·골 안내",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0827",
+    "original": "ゴール!",
+    "source_note": "경주 시작·준비·골 안내",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0864",
+    "original": "",
+    "source_note": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0865",
+    "original": "",
+    "source_note": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0866",
+    "original": "",
+    "source_note": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0867",
+    "original": "",
+    "source_note": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0897",
+    "original": "",
+    "source_note": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0900",
+    "original": "",
+    "source_note": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0903",
+    "original": "",
+    "source_note": "승자·결과 발표·최고 기록·재시작/게임 변경/종료",
+    "category": "minigame",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0185",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0186",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0187",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0188",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0189",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0190",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0191",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0192",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0193",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0194",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0195",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0196",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0197",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0198",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0199",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0200",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0201",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0202",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0203",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0204",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0205",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0206",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0207",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0208",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0209",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0210",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0211",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0212",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0213",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0214",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0215",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0216",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0217",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0218",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0219",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0220",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0221",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0222",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0223",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0224",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0225",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0226",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0227",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0228",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0229",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0230",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0231",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0232",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0233",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0234",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0235",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0236",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0237",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0238",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0239",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0240",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0241",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0242",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0243",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0244",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0245",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0246",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0247",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0248",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0249",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0250",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0251",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0252",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0253",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0254",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0255",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0256",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0257",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0258",
+    "original": "",
+    "source_note": "엔딩 크레딧 이름/직함 74개; 인명 표기와 번역 방침 결정 필요",
+    "category": "credits",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b4_0259",
+    "original": "",
+    "source_note": "크레딧 삽화 책 표지 안의 일본어",
+    "category": "credits_illustration",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0004",
+    "original": "",
+    "source_note": "일본어 HUD 테마의 한자 표기",
+    "category": "hud",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0167",
+    "original": "",
+    "source_note": "일본어 HUD 테마의 한자 표기",
+    "category": "hud",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0168",
+    "original": "",
+    "source_note": "일본어 HUD 테마의 한자 표기",
+    "category": "hud",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0006",
+    "original": "",
+    "source_note": "디버그 HUD에 포함된 영문 라벨",
+    "category": "debug_hud",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0221",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0222",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0223",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0224",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0225",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0226",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0227",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0228",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0229",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0230",
+    "original": "",
+    "source_note": "일본어 HUD 테마 한자 숫자 0~9; 숫자 자체는 번역 선택 사항",
+    "category": "hud_numeric",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0251",
+    "original": "無",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0252",
+    "original": "火",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0253",
+    "original": "石",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0254",
+    "original": "針",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0255",
+    "original": "爆",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0256",
+    "original": "電",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0257",
+    "original": "切",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0258",
+    "original": "氷",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0259",
+    "original": "妖",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0260",
+    "original": "晶",
+    "source_note": "일본어 HUD 테마 능력 한자 10개",
+    "category": "hud_ability",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0271",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0272",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0273",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0274",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0275",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0276",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0277",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0278",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0279",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0280",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0281",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0282",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0283",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0284",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0285",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0286",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0287",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0288",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0289",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0290",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0291",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0292",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0293",
+    "original": "",
+    "source_note": "계속/다시/노력/포기 선택지 및 조작법 설명",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0298",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0299",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0300",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0303",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0304",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0305",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0306",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0308",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0309",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0310",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0311",
+    "original": "",
+    "source_note": "조작법 제목·카피 능력·다시 보기 / 알고 있음·모름·보기·보지 않기",
+    "category": "tutorial",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0005",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0006",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0007",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0008",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0009",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0010",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0011",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0012",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0013",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0014",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0015",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0016",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0017",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0018",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0019",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0020",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0021",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0022",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0023",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0024",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0061",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0062",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0063",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0176",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0177",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0178",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0179",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0180",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0181",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0182",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0183",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0184",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0185",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0254",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0255",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0256",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0257",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0258",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0259",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0260",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0261",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0262",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0263",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0353",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0354",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0355",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0356",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0357",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0358",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0359",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0360",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0361",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0362",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0450",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0451",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0452",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0453",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0454",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0455",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0456",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0457",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0458",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0459",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0511",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0512",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0513",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0514",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0515",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0516",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0517",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0828",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0829",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0830",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0831",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0833",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0834",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0835",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0836",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0837",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0838",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0839",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0840",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0841",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0842",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0855",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0856",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b3_0857",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0008",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0009",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0010",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0011",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0012",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0013",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0014",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0015",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0016",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0017",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0018",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0019",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0020",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0021",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0022",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0023",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0024",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0025",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0026",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0027",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0028",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0029",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0030",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0031",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0032",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0033",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0034",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0035",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0036",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0037",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0038",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0039",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0040",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0041",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0042",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0043",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0044",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0045",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0046",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0047",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0048",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0049",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0050",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0051",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0052",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0053",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0054",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0055",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0056",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0057",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0058",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0059",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0060",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0061",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0062",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0063",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0064",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0065",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0066",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0067",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0068",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0069",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0070",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0071",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0072",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0073",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0074",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0075",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0076",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0077",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0078",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0079",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0080",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0081",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0082",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0083",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0084",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0085",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0086",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0087",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0088",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0089",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0090",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0091",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0092",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0093",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0094",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0095",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0096",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0097",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0098",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0099",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0100",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0101",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0102",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0103",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0104",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0105",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0106",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0107",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0108",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0109",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0110",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0111",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0112",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0113",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0114",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0115",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0116",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0117",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0118",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0119",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0120",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0121",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0122",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0123",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0124",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0125",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0126",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0127",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0128",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0129",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0130",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0131",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0132",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0133",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0134",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0135",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0136",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0137",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0138",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0139",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0140",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0141",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0142",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0143",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0144",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0145",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0146",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0147",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0148",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0149",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0150",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0151",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0152",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0153",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0154",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0155",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0156",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0157",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0158",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0159",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0160",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0191",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0192",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0193",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0194",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0195",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0196",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0197",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0198",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0199",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0200",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0201",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0202",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0203",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0204",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0205",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0206",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0207",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0208",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0209",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0210",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0211",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0212",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0213",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0214",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0215",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0216",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0217",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0218",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0219",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0220",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0231",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0232",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0233",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0234",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0235",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0236",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0237",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0238",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0239",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  },
+  {
+    "id": "b5_0240",
+    "original": "",
+    "source_note": "숫자 또는 작은 영숫자 글리프; 문자 형태 교체 가능",
+    "category": "glyph",
+    "translation": "",
+    "font_size": 0
+  }
+]

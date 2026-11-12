@@ -1,0 +1,52 @@
+{
+  "game": "Hoshi no Kirby 64 (Japan) (Rev 3)",
+  "source_rom_sha1": "03257c820b7705400c32bde1bcc3161c55814605",
+  "reference_repository": "https://github.com/Kirby64Ret/kirby64",
+  "reference_commit": "2844ceae4b9e61c56176851038bdb90fd26513e7",
+  "reference_sources": {
+    "bank_structure": "https://github.com/Kirby64Ret/kirby64/blob/2844ceae4b9e61c56176851038bdb90fd26513e7/include/types.h",
+    "bank_generation": "https://github.com/Kirby64Ret/kirby64/blob/2844ceae4b9e61c56176851038bdb90fd26513e7/assets/tools/make_bank_filetable.py",
+    "image_loading": "https://github.com/Kirby64Ret/kirby64/blob/2844ceae4b9e61c56176851038bdb90fd26513e7/src/ovl1/file.c",
+    "sprite_rendering": "https://github.com/Kirby64Ret/kirby64/blob/2844ceae4b9e61c56176851038bdb90fd26513e7/src/ovl1/sprite.c",
+    "sprite_header": "https://github.com/Kirby64Ret/kirby64/blob/2844ceae4b9e61c56176851038bdb90fd26513e7/src/ovl1/ovl1_3.h",
+    "crash_font_map_renderer": "https://github.com/Kirby64Ret/kirby64/blob/2844ceae4b9e61c56176851038bdb90fd26513e7/src/main/fault.c",
+    "hud_assets": "https://github.com/Kirby64Ret/kirby64/blob/2844ceae4b9e61c56176851038bdb90fd26513e7/src/ovl1/ovl1_13.c",
+    "checksum_algorithm_reference": "https://github.com/Kirby64Ret/kirby64/blob/2844ceae4b9e61c56176851038bdb90fd26513e7/tools/n64crc.c"
+  },
+  "rom_table_analysis": {
+    "bank_header_offsets": [442596,454960,461204,468948,475244,476556,482040,489852],
+    "ram_to_rom_delta_in_table_overlay": "0x80056D40",
+    "total_image_blocks": 4521,
+    "decoded_sprite_header_images": 993,
+    "unclassified_raw_texture_or_palette_blocks": 3528,
+    "supported_native_formats": ["ci4","ci8","i4","i8","ia4","ia8","ia16","rgba16"],
+    "compact_palette_rule": "header byte 2 gives palette entry count; zero means 256; CI4 may include additional palette banks"
+  },
+  "font_analysis": {
+    "crash_font_rom_offset": "0x0003F9CC",
+    "crash_map_rom_offset": "0x0003F94C",
+    "crash_map_bytes": 128,
+    "crash_glyph_count": 45,
+    "crash_cell": [6,7],
+    "packed_layout": "5 glyphs per 32-bit row; 7 rows per group; 6 bits per glyph; unused bits preserved",
+    "hud_small_glyph_ids": "bank 5 images 8..160",
+    "hud_small_cell": [6,6],
+    "hud_runtime_encoding": "not established; A-Z, digit, and color families identified visually",
+    "unicode_or_hangul_runtime_engine": "not implemented"
+  },
+  "text_analysis": {
+    "reference_c_files_examined": 66,
+    "source_literals_matched_to_whole_null_terminated_rom_strings": 312,
+    "encodings_probed": ["shift_jis","utf-8","utf-16-be"],
+    "japanese_probe_phrases": ["スタート","ファイル","カービィ","つづける","にんてんどう"],
+    "probe_phrase_occurrences_in_these_encodings": 0,
+    "inference": "The identified player-facing Japanese labels are prerendered graphics. This probe does not rule out unknown custom encodings elsewhere.",
+    "native_string_edits": "fixed-capacity ASCII; preserve printf tokens; reject internal stage identifiers"
+  },
+  "checksum": {
+    "boot_code_crc32": "0B050EE0",
+    "identified_cic": 6103,
+    "original_calculated_crc1": "BCB1F89F",
+    "original_calculated_crc2": "060752A2"
+  }
+}
