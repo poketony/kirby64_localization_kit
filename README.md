@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/title-ko.png" width="600" alt="별의 커비 64 한국어 타이틀 그래픽 미리보기">
+  <img src="./별의%20커비%2064.titlelogo.png" width="600" alt="별의 커비 64 한국어 타이틀 로고">
 </p>
 
 <h1 align="center">별의 커비 64 한국어화</h1>
@@ -11,8 +11,7 @@
 
 <p align="center">
   Target: <code>Hoshi no Kirby 64 (Japan) (Rev 3)</code> · Nintendo 64<br>
-  Build host: Windows + Python · ROM format: big-endian <code>.z64</code><br>
-  Title texture preview: <code>b0_0025</code>
+  Build host: Windows + Python · ROM format: big-endian <code>.z64</code>
 </p>
 
 별의 커비 64의 타이틀, 메뉴, 미니게임, 적 이름, 조작 안내와 제작진 그래픽을 한국어화하면서 만든 도구와 편집 자료를 모은 저장소입니다. 이미지의 팔레트와 원래 배치를 유지하는 작업부터, 글자별로 움직이는 폴리곤 모델을 교체하고 ROM에 다시 넣는 과정까지 다룹니다.
@@ -95,6 +94,8 @@ kirby64_localization_kit/
 ├─ k64_localize.py              extract / render / build / verify entry point
 ├─ k64_images.py                native texture and palette codec
 ├─ k64_geometry.py              geometry parser, inspector and earlier generators
+├─ 별의 커비 64.titlelogo.png    README title logo
+├─ 별의 커비 64.cover.png        cover artwork
 ├─ requirements.txt
 ├─ sources.json                 reference revision and format-research provenance
 ├─ verification.json            baseline roundtrip and format-validation results
@@ -112,7 +113,7 @@ kirby64_localization_kit/
 │  ├─ translations.json         human-readable bitmap-text jobs
 │  ├─ native_strings.json       optional ASCII replacements
 │  └─ catalog.html / .json      resource catalogue
-└─ docs/images/                 README preview assets
+└─ docs/images/                 extracted title-texture preview
 ```
 
 Local production directories are excluded from Git:
